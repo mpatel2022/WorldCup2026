@@ -1,0 +1,1365 @@
+Manager pt Ed Santos
+Manager gb-eng Mitesh Patel
+Manager gb-eng Tom Paton
+Manager gb-eng Stephen Brooks
+Manager gb-sct Iain Scott
+Country fr
+Player GK Hugo Lloris
+Player DF Christophe Jallet
+Player DF Patrice Evra
+Player DF Adil Rami
+Player MF N'Golo Kanté
+Player MF Yohan Cabaye
+Player FW Antoine Griezmann
+Player MF Dimitri Payet
+Player FW Olivier Giroud
+Player FW André-Pierre Gignac
+Player FW Anthony Martial
+Player MF Morgan Schneiderlin
+Player DF Eliaquim Mangala
+Player MF Blaise Matuidi
+Player MF Paul Pogba
+Player GK Steve Mandanda
+Player DF Lucas Digne
+Player MF Moussa Sissoko
+Player DF Bacary Sagna
+Player MF Kingsley Coman
+Player DF Laurent Koscielny
+Player DF Samuel Umtiti
+Player GK Benoît Costil
+Country ro
+Player GK Costel Pantilimon
+Player DF Alexandru Mățel
+Player DF Răzvan Raț
+Player DF Cosmin Moți
+Player MF Ovidiu Hoban
+Player DF Vlad Chiricheș
+Player MF Alexandru Chipciu
+Player MF Mihai Pintilii
+Player FW Denis Alibec
+Player MF Nicolae Stanciu
+Player MF Gabriel Torje
+Player GK Ciprian Tătărușanu
+Player FW Claudiu Keșerü
+Player FW Florin Andone
+Player DF Valerică Găman
+Player DF Steliano Filip
+Player MF Lucian Sânmărtean
+Player MF Andrei Prepeliță
+Player FW Bogdan Stancu
+Player MF Adrian Popa
+Player DF Dragoș Grigore
+Player DF Cristian Săpunaru
+Player GK Silviu Lung Jr.
+Country al
+Player GK Etrit Berisha
+Player DF Andi Lila
+Player MF Ermir Lenjani
+Player DF Elseid Hysaj
+Player MF Lorik Cana
+Player DF Frédéric Veseli
+Player DF Ansi Agolli
+Player MF Migjen Basha
+Player MF Ledian Memushaj
+Player FW Armando Sadiku
+Player FW Shkëlzen Gashi
+Player GK Orges Shehi
+Player MF Burim Kukeli
+Player MF Taulant Xhaka
+Player DF Mërgim Mavraj
+Player FW Sokol Cikalleshi
+Player DF Naser Aliji
+Player DF Arlind Ajeti
+Player FW Bekim Balaj
+Player MF Ergys Kaçe
+Player MF Odise Roshi
+Player MF Amir Abrashi
+Player GK Alban Hoxha
+Country ch
+Player GK Yann Sommer
+Player DF Stephan Lichtsteiner
+Player DF François Moubandje
+Player DF Nico Elvedi
+Player DF Steve von Bergen
+Player DF Michael Lang
+Player FW Breel Embolo
+Player MF Fabian Frei
+Player FW Haris Seferovic
+Player MF Granit Xhaka
+Player MF Valon Behrami
+Player GK Marwin Hitz
+Player DF Ricardo Rodríguez
+Player MF Denis Zakaria
+Player MF Blerim Džemaili
+Player MF Gelson Fernandes
+Player FW Shani Tarashaj
+Player FW Admir Mehmedi
+Player FW Eren Derdiyok
+Player DF Johan Djourou
+Player GK Roman Bürki
+Player DF Fabian Schär
+Player MF Xherdan Shaqiri
+Country gb-eng
+Player GK Joe Hart
+Player DF Kyle Walker
+Player DF Danny Rose
+Player MF James Milner
+Player DF Gary Cahill
+Player DF Chris Smalling
+Player MF Raheem Sterling
+Player MF Adam Lallana
+Player FW Harry Kane
+Player FW Wayne Rooney
+Player FW Jamie Vardy
+Player DF Nathaniel Clyne
+Player GK Fraser Forster
+Player MF Jordan Henderson
+Player FW Daniel Sturridge
+Player DF John Stones
+Player MF Eric Dier
+Player MF Jack Wilshere
+Player MF Ross Barkley
+Player MF Dele Alli
+Player DF Ryan Bertrand
+Player FW Marcus Rashford
+Player GK Tom Heaton
+Country ru
+Player GK Igor Akinfeev
+Player DF Roman Shishkin
+Player DF Igor Smolnikov
+Player DF Sergei Ignashevich
+Player DF Roman Neustädter
+Player DF Aleksei Berezutski
+Player MF Artur Yusupov
+Player MF Denis Glushakov
+Player FW Aleksandr Kokorin
+Player FW Fyodor Smolov
+Player MF Pavel Mamayev
+Player GK Yuri Lodygin
+Player MF Aleksandr Golovin
+Player DF Vasili Berezutski
+Player MF Roman Shirokov
+Player GK Guilherme Marinato
+Player MF Oleg Shatov
+Player MF Oleg Ivanov
+Player MF Aleksandr Samedov
+Player MF Dmitri Torbinski
+Player DF Georgi Shchennikov
+Player FW Artem Dzyuba
+Player DF Dmitri Kombarov
+Country gb-wls
+Player GK Wayne Hennessey
+Player DF Chris Gunter
+Player DF Neil Taylor
+Player DF Ben Davies
+Player DF James Chester
+Player DF Ashley Williams
+Player MF Joe Allen
+Player MF Andy King
+Player FW Hal Robson-Kanu
+Player MF Aaron Ramsey
+Player MF Gareth Bale
+Player GK Owain Fôn Williams
+Player MF George Williams
+Player MF David Edwards
+Player DF Jazz Richards
+Player MF Joe Ledley
+Player MF David Cotterill
+Player FW Sam Vokes
+Player DF James Collins
+Player MF Jonny Williams
+Player GK Danny Ward
+Player MF David Vaughan
+Player FW Simon Church
+Country sk
+Player GK Ján Mucha
+Player DF Peter Pekarík
+Player DF Martin Škrtel
+Player DF Ján Ďurica
+Player DF Norbert Gyömbér
+Player MF Ján Greguš
+Player MF Vladimír Weiss
+Player MF Ondrej Duda
+Player FW Stanislav Šesták
+Player MF Miroslav Stoch
+Player FW Adam Nemec
+Player GK Ján Novota
+Player MF Patrik Hrošovský
+Player DF Milan Škriniar
+Player DF Tomáš Hubočan
+Player DF Kornel Saláta
+Player MF Marek Hamšík
+Player DF Dušan Švento
+Player MF Juraj Kucka
+Player MF Róbert Mak
+Player FW Michal Ďuriš
+Player MF Viktor Pečovský
+Player GK Matúš Kozáčik
+Country de
+Player GK Manuel Neuer
+Player DF Shkodran Mustafi
+Player DF Jonas Hector
+Player DF Benedikt Höwedes
+Player DF Mats Hummels
+Player MF Sami Khedira
+Player MF Bastian Schweinsteiger
+Player MF Mesut Özil
+Player MF André Schürrle
+Player FW Lukas Podolski
+Player MF Julian Draxler
+Player GK Bernd Leno
+Player FW Thomas Müller
+Player MF Emre Can
+Player MF Julian Weigl
+Player DF Jonathan Tah
+Player DF Jérôme Boateng
+Player MF Toni Kroos
+Player MF Mario Götze
+Player MF Leroy Sané
+Player DF Joshua Kimmich
+Player GK Marc-André ter Stegen
+Player FW Mario Gómez
+Country ua
+Player GK Denys Boyko
+Player DF Bohdan Butko
+Player DF Yevhen Khacheridi
+Player MF Anatoliy Tymoshchuk
+Player DF Oleksandr Kucher
+Player MF Taras Stepanenko
+Player MF Andriy Yarmolenko
+Player FW Roman Zozulya
+Player MF Viktor Kovalenko
+Player MF Yevhen Konoplyanka
+Player FW Yevhen Seleznyov
+Player GK Andriy Pyatov
+Player DF Vyacheslav Shevchuk
+Player MF Ruslan Rotan
+Player FW Pylyp Budkivskyi
+Player MF Serhiy Sydorchuk
+Player DF Artem Fedetskyi
+Player MF Serhiy Rybalka
+Player MF Denys Harmash
+Player DF Yaroslav Rakitskiy
+Player MF Oleksandr Zinchenko
+Player MF Oleksandr Karavayev
+Player GK Mykyta Shevchenko
+Country pl
+Player GK Wojciech Szczęsny
+Player DF Michał Pazdan
+Player DF Artur Jędrzejczyk
+Player DF Thiago Cionek
+Player MF Krzysztof Mączyński
+Player MF Tomasz Jodłowiec
+Player FW Arkadiusz Milik
+Player MF Karol Linetty
+Player FW Robert Lewandowski
+Player MF Grzegorz Krychowiak
+Player MF Kamil Grosicki
+Player GK Artur Boruc
+Player FW Mariusz Stępiński
+Player DF Jakub Wawrzyniak
+Player DF Kamil Glik
+Player MF Jakub Błaszczykowski
+Player MF Sławomir Peszko
+Player DF Bartosz Salamon
+Player MF Piotr Zieliński
+Player DF Łukasz Piszczek
+Player MF Bartosz Kapustka
+Player GK Łukasz Fabiański
+Player MF Filip Starzyński
+Country gb-nir
+Player GK Michael McGovern
+Player DF Conor McLaughlin
+Player MF Shane Ferguson
+Player DF Gareth McAuley
+Player DF Jonny Evans
+Player DF Chris Baird
+Player FW Niall McGinn
+Player MF Steven Davis
+Player FW Will Grigg
+Player FW Kyle Lafferty
+Player FW Conor Washington
+Player GK Roy Carroll
+Player MF Corry Evans
+Player MF Stuart Dallas
+Player DF Luke McCullough
+Player MF Oliver Norwood
+Player DF Paddy McNair
+Player DF Aaron Hughes
+Player MF Jamie Ward
+Player DF Craig Cathcart
+Player MF Josh Magennis
+Player DF Lee Hodson
+Player GK Alan Mannus
+Country es
+Player GK Iker Casillas
+Player DF César Azpilicueta
+Player DF Gerard Piqué
+Player DF Marc Bartra
+Player MF Sergio Busquets
+Player MF Andrés Iniesta
+Player FW Álvaro Morata
+Player MF Koke
+Player FW Lucas Vázquez
+Player MF Cesc Fàbregas
+Player FW Pedro
+Player DF Héctor Bellerín
+Player GK David de Gea
+Player MF Thiago
+Player DF Sergio Ramos
+Player DF Juanfran
+Player DF Mikel San José
+Player DF Jordi Alba
+Player MF Bruno Soriano
+Player FW Aritz Aduriz
+Player MF David Silva
+Player FW Nolito
+Player GK Sergio Rico
+Country cz
+Player GK Petr Čech
+Player DF Pavel Kadeřábek
+Player DF Michal Kadlec
+Player DF Theodor Gebre Selassie
+Player DF Roman Hubník
+Player DF Tomáš Sivok
+Player FW Tomáš Necid
+Player DF David Limberský
+Player MF Bořek Dočkal
+Player MF Tomáš Rosický
+Player MF Daniel Pudil
+Player FW Milan Škoda
+Player MF Jaroslav Plašil
+Player MF Daniel Kolář
+Player MF David Pavelka
+Player GK Tomáš Vaclík
+Player DF Marek Suchý
+Player MF Josef Šural
+Player MF Ladislav Krejčí
+Player MF Jiří Skalák
+Player FW David Lafata
+Player MF Vladimír Darida
+Player GK Tomáš Koubek
+Country tr
+Player GK Volkan Babacan
+Player DF Semih Kaya
+Player DF Hakan Balta
+Player DF Ahmet Yılmaz Çalık
+Player MF Nuri Şahin
+Player MF Hakan Çalhanoğlu
+Player DF Gökhan Gönül
+Player MF Selçuk İnan
+Player FW Cenk Tosun
+Player MF Arda Turan
+Player MF Olcay Şahan
+Player GK Onur Kıvrak
+Player DF İsmail Köybaşı
+Player MF Oğuzhan Özyakup
+Player DF Mehmet Topal
+Player MF Ozan Tufan
+Player FW Burak Yılmaz
+Player DF Caner Erkin
+Player FW Yunus Mallı
+Player MF Volkan Şen
+Player MF Emre Mor
+Player DF Şener Özbayraklı
+Player GK Harun Tekin
+Country hr
+Player GK Ivan Vargić
+Player DF Šime Vrsaljko
+Player DF Ivan Strinić
+Player MF Ivan Perišić
+Player DF Vedran Ćorluka
+Player DF Tin Jedvaj
+Player MF Ivan Rakitić
+Player MF Mateo Kovačić
+Player FW Andrej Kramarić
+Player MF Luka Modrić
+Player DF Darijo Srna
+Player GK Lovre Kalinić
+Player DF Gordon Schildenfeld
+Player MF Marcelo Brozović
+Player MF Marko Rog
+Player FW Nikola Kalinić
+Player FW Mario Mandžukić
+Player MF Ante Ćorić
+Player MF Milan Badelj
+Player FW Marko Pjaca
+Player DF Domagoj Vida
+Player FW Duje Čop
+Player GK Danijel Subašić
+Country be
+Player GK Thibaut Courtois
+Player DF Toby Alderweireld
+Player DF Thomas Vermaelen
+Player MF Radja Nainggolan
+Player DF Jan Vertonghen
+Player MF Axel Witsel
+Player MF Kevin De Bruyne
+Player MF Marouane Fellaini
+Player FW Romelu Lukaku
+Player MF Eden Hazard
+Player FW Yannick Carrasco
+Player GK Simon Mignolet
+Player GK Jean-François Gillet
+Player FW Dries Mertens
+Player DF Jason Denayer
+Player DF Thomas Meunier
+Player FW Divock Origi
+Player DF Christian Kabasele
+Player MF Mousa Dembélé
+Player FW Christian Benteke
+Player DF Jordan Lukaku
+Player FW Michy Batshuayi
+Player DF Laurent Ciman
+Country it
+Player GK Gianluigi Buffon
+Player DF Mattia De Sciglio
+Player DF Giorgio Chiellini
+Player DF Matteo Darmian
+Player DF Angelo Ogbonna
+Player MF Antonio Candreva
+Player FW Simone Zaza
+Player DF Alessandro Florenzi
+Player FW Graziano Pellè
+Player MF Thiago Motta
+Player FW Ciro Immobile
+Player GK Salvatore Sirigu
+Player GK Federico Marchetti
+Player MF Stefano Sturaro
+Player DF Andrea Barzagli
+Player MF Daniele De Rossi
+Player FW Éder Citadin Martins
+Player MF Marco Parolo
+Player DF Leonardo Bonucci
+Player MF Lorenzo Insigne
+Player MF Federico Bernardeschi
+Player MF Stephan El Shaarawy
+Player MF Emanuele Giaccherini
+Country ie
+Player GK Keiren Westwood
+Player DF Séamus Coleman
+Player DF Ciaran Clark
+Player DF John O'Shea
+Player DF Richard Keogh
+Player MF Glenn Whelan
+Player MF Aiden McGeady
+Player MF James McCarthy
+Player FW Shane Long
+Player FW Robbie Keane
+Player MF James McClean
+Player DF Shane Duffy
+Player MF Jeff Hendrick
+Player FW Jonathan Walters
+Player DF Cyrus Christie
+Player GK Shay Given
+Player DF Stephen Ward
+Player MF David Meyler
+Player MF Robbie Brady
+Player MF Wes Hoolahan
+Player FW Daryl Murphy
+Player MF Stephen Quinn
+Player GK Darren Randolph
+Country se
+Player GK Andreas Isaksson
+Player DF Mikael Lustig
+Player DF Erik Johansson
+Player DF Andreas Granqvist
+Player DF Martin Olsson
+Player MF Emil Forsberg
+Player MF Sebastian Larsson
+Player MF Albin Ekdal
+Player MF Kim Källström
+Player FW Zlatan Ibrahimović
+Player FW Marcus Berg
+Player GK Robin Olsen
+Player DF Pontus Jansson
+Player DF Victor Lindelöf
+Player MF Oscar Hiljemark
+Player MF Pontus Wernbloom
+Player DF Ludwig Augustinsson
+Player MF Oscar Lewicki
+Player FW Emir Kujović
+Player FW John Guidetti
+Player MF Jimmy Durmaz
+Player MF Erkan Zengin
+Player GK Patrik Carlgren
+Country pt
+Player GK Rui Patrício
+Player DF Bruno Alves
+Player DF Pepe
+Player DF José Fonte
+Player DF Raphaël Guerreiro
+Player DF Ricardo Carvalho
+Player FW Cristiano Ronaldo
+Player MF João Moutinho
+Player FW Éder
+Player MF João Mário
+Player MF Vieirinha
+Player GK Anthony Lopes
+Player MF Danilo
+Player MF William Carvalho
+Player MF André Gomes
+Player MF Renato Sanches
+Player FW Nani
+Player MF Rafa Silva
+Player DF Eliseu
+Player FW Ricardo Quaresma
+Player DF Cédric
+Player GK Eduardo
+Player MF Adrien Silva
+Country is
+Player GK Hannes Þór Halldórsson
+Player DF Birkir Már Sævarsson
+Player DF Haukur Heiðar Hauksson
+Player DF Hjörtur Hermannsson
+Player DF Sverrir Ingi Ingason
+Player DF Ragnar Sigurðsson
+Player FW Jóhann Berg Guðmundsson
+Player MF Birkir Bjarnason
+Player FW Kolbeinn Sigþórsson
+Player MF Gylfi Sigurðsson
+Player FW Alfreð Finnbogason
+Player GK Ögmundur Kristinsson
+Player GK Ingvar Jónsson
+Player DF Kári Árnason
+Player FW Jón Daði Böðvarsson
+Player MF Rúnar Már Sigurjónsson
+Player MF Aron Gunnarsson
+Player DF Theódór Elmar Bjarnason
+Player DF Hörður Björgvin Magnússon
+Player MF Emil Hallfreðsson
+Player DF Arnór Ingvi Traustason
+Player FW Eiður Guðjohnsen
+Player DF Ari Freyr Skúlason
+Country at
+Player GK Robert Almer
+Player DF György Garics
+Player DF Aleksandar Dragović
+Player DF Martin Hinteregger
+Player DF Christian Fuchs
+Player MF Stefan Ilsanker
+Player MF Marko Arnautović
+Player DF David Alaba
+Player FW Rubin Okotie
+Player MF Zlatko Junuzović
+Player MF Martin Harnik
+Player GK Heinz Lindner
+Player DF Markus Suttner
+Player MF Julian Baumgartlinger
+Player DF Sebastian Prödl
+Player DF Kevin Wimmer
+Player DF Florian Klein
+Player MF Alessandro Schöpf
+Player FW Lukas Hinterseer
+Player FW Marcel Sabitzer
+Player FW Marc Janko
+Player MF Jakob Jantscher
+Player GK Ramazan Özcan
+Country hu
+Player GK Gábor Király
+Player DF Ádám Lang
+Player DF Mihály Korhut
+Player DF Tamás Kádár
+Player DF Attila Fiola
+Player MF Ákos Elek
+Player MF Balázs Dzsudzsák
+Player MF Ádám Nagy
+Player FW Ádám Szalai
+Player MF Zoltán Gera
+Player FW Krisztián Németh
+Player GK Dénes Dibusz
+Player FW Dániel Böde
+Player MF Gergő Lovrencsics
+Player MF László Kleinheisler
+Player DF Ádám Pintér
+Player FW Nemanja Nikolić
+Player MF Zoltán Stieber
+Player FW Tamás Priskin
+Player DF Richárd Guzmics
+Player DF Barnabás Bese
+Player GK Péter Gulácsi
+Player DF Roland Juhász
+Draft Antoine Griezmann
+Draft Thomas Müller
+Draft Cristiano Ronaldo
+Draft Harry Kane
+Draft Manuel Neuer
+Draft Laurent Koscielny
+Draft Hugo Lloris
+Draft David Alaba
+Draft Andrés Iniesta
+Draft Paul Pogba
+Draft Mesut Özil
+Draft Jérôme Boateng
+Draft Kevin De Bruyne
+Draft Sergio Ramos
+Draft Eden Hazard
+Draft Xherdan Shaqiri
+Draft Gareth Bale
+Draft Gerard Piqué
+Draft Juanfran
+Draft Zlatan Ibrahimović
+Draft Mats Hummels
+Draft Patrice Evra
+Draft Robert Lewandowski
+Draft Bacary Sagna
+Draft Jordi Alba
+Draft Olivier Giroud
+Draft David Silva
+Draft Cesc Fàbregas
+Draft Dimitri Payet
+Draft Marek Hamšík
+Draft Toby Alderweireld
+Draft Luka Modrić
+Draft Álvaro Morata
+Draft Pepe
+Draft Dele Alli
+Draft Nolito
+Draft Arda Turan
+Draft Chris Smalling
+Draft Toni Kroos
+Draft Eliseu
+Draft Rui Patrício
+Draft Christian Fuchs
+Draft Jonas Hector
+Draft Stephan Lichtsteiner
+Draft Mario Mandžukić
+Draft Giorgio Chiellini
+Draft Romelu Lukaku
+Draft Gylfi Sigurðsson
+Draft Graziano Pellè
+Draft Kyle Walker
+Draft Sami Khedira
+Draft Thibaut Courtois
+Draft Gianluigi Buffon
+Draft Marc Janko
+Draft Benedikt Höwedes
+Out Mats Hummels
+In Mario Gómez
+Transfer
+Assist Dimitri Payet
+Goal Olivier Giroud
+Goal Bogdan Stancu
+Assist N'Golo Kanté
+Goal Dimitri Payet
+Assist Xherdan Shaqiri
+Goal Fabian Schär
+Red Lorik Cana
+CS Yann Sommer
+CS Stephan Lichtsteiner
+CS Ricardo Rodríguez
+CS Johan Djourou
+CS Fabian Schär
+Goal Gareth Bale
+Assist Róbert Mak
+Goal Ondrej Duda
+Assist Aaron Ramsey
+Goal Hal Robson-Kanu
+Goal Eric Dier
+Assist Georgi Shchennikov
+Goal Vasili Berezutski
+Goal Luka Modrić
+CS Danijel Subašić
+CS Ivan Strinić
+CS Vedran Ćorluka
+CS Darijo Srna
+CS Gordon Schildenfeld
+CS Domagoj Vida
+Assist Jakub Błaszczykowski
+Goal Arkadiusz Milik
+CS Wojciech Szczęsny
+CS Michał Pazdan
+CS Artur Jędrzejczyk
+CS Kamil Glik
+CS Łukasz Piszczek
+Assist Toni Kroos
+Goal Shkodran Mustafi
+Assist Mesut Özil
+Goal Bastian Schweinsteiger
+CS Manuel Neuer
+CS Shkodran Mustafi
+CS Jonas Hector
+CS Benedikt Höwedes
+CS Jérôme Boateng
+Assist Andrés Iniesta
+Goal Gerard Piqué
+CS David de Gea
+CS Gerard Piqué
+CS Sergio Ramos
+CS Juanfran
+CS Jordi Alba
+Assist Séamus Coleman
+Goal Wes Hoolahan
+Assist Zlatan Ibrahimović
+OG Ciaran Clark
+Assist Leonardo Bonucci
+Goal Emanuele Giaccherini
+Assist Antonio Candreva
+Goal Graziano Pellè
+CS Gianluigi Buffon
+CS Mattia De Sciglio
+CS Giorgio Chiellini
+CS Matteo Darmian
+CS Andrea Barzagli
+CS Leonardo Bonucci
+Assist László Kleinheisler
+Goal Ádám Szalai
+Red Aleksandar Dragović
+Assist Tamás Priskin
+Goal Zoltán Stieber
+CS Gábor Király
+CS Ádám Lang
+CS Tamás Kádár
+CS Attila Fiola
+CS Ádám Pintér
+CS Richárd Guzmics
+Assist André Gomes
+Goal Nani
+Assist Jóhann Berg Guðmundsson
+Goal Birkir Bjarnason
+Out Arda Turan
+In Ivan Perišić
+Out Christian Fuchs
+In Leonardo Bonucci
+Out Marc Janko
+In Nani
+Out Nani
+In Marc Janko
+Out Marc Janko
+In Nani
+Out Nani
+In Andriy Yarmolenko
+Out Gareth Bale
+In Anthony Martial
+Out Pepe
+In Jan Vertonghen
+Out Anthony Martial
+In Marko Arnautović
+Out Cesc Fàbregas
+In Gareth Bale
+Out Chris Smalling
+In Adil Rami
+Out Zlatan Ibrahimović
+In André Gomes
+Out Eliseu
+In Pepe
+Transfer
+Assist Marek Hamšík
+Goal Vladimír Weiss
+Assist Vladimír Weiss
+Goal Marek Hamšík
+Assist Oleg Shatov
+Goal Denis Glushakov
+Goal Bogdan Stancu
+Assist Johan Djourou
+Goal Admir Mehmedi
+Assist Adil Rami
+Goal Antoine Griezmann
+Assist André-Pierre Gignac
+Goal Dimitri Payet
+CS Hugo Lloris
+CS Patrice Evra
+CS Adil Rami
+CS Bacary Sagna
+CS Laurent Koscielny
+Goal Gareth Bale
+Goal Jamie Vardy
+Assist Dele Alli
+Goal Daniel Sturridge
+Assist Oliver Norwood
+Goal Gareth McAuley
+Goal Niall McGinn
+CS Michael McGovern
+CS Gareth McAuley
+CS Jonny Evans
+CS Paddy McNair
+CS Aaron Hughes
+CS Craig Cathcart
+CS Manuel Neuer
+CS Jonas Hector
+CS Benedikt Höwedes
+CS Mats Hummels
+CS Jérôme Boateng
+CS Łukasz Fabiański
+CS Michał Pazdan
+CS Artur Jędrzejczyk
+CS Kamil Glik
+CS Łukasz Piszczek
+Assist Simone Zaza
+Goal Éder Citadin Martins
+CS Gianluigi Buffon
+CS Giorgio Chiellini
+CS Alessandro Florenzi
+CS Andrea Barzagli
+CS Leonardo Bonucci
+Assist Milan Badelj
+Goal Ivan Perišić
+Assist Marcelo Brozović
+Goal Ivan Rakitić
+Assist Tomáš Rosický
+Goal Milan Škoda
+Goal Tomáš Necid
+Assist Nolito
+Goal Álvaro Morata
+Goal Nolito
+Assist Jordi Alba
+Goal Álvaro Morata
+CS David de Gea
+CS César Azpilicueta
+CS Gerard Piqué
+CS Sergio Ramos
+CS Juanfran
+CS Jordi Alba
+Assist Kevin De Bruyne
+Goal Romelu Lukaku
+Assist Thomas Meunier
+Goal Axel Witsel
+Assist Eden Hazard
+Goal Romelu Lukaku
+CS Thibaut Courtois
+CS Toby Alderweireld
+CS Thomas Vermaelen
+CS Jan Vertonghen
+CS Thomas Meunier
+Goal Gylfi Sigurðsson
+Assist Nemanja Nikolić
+OG Birkir Már Sævarsson
+Miss Cristiano Ronaldo
+CS Rui Patrício
+CS Pepe
+CS Raphaël Guerreiro
+CS Ricardo Carvalho
+CS Robert Almer
+CS Martin Hinteregger
+CS Christian Fuchs
+CS David Alaba
+CS Sebastian Prödl
+CS Kevin Wimmer
+CS Florian Klein
+Out Andriy Yarmolenko
+In Julian Draxler
+Out Stephan Lichtsteiner
+In Mats Hummels
+Out Robert Lewandowski
+In Andrea Barzagli
+Out Mario Mandžukić
+In Robert Lewandowski
+Out Xherdan Shaqiri
+In Emanuele Giaccherini
+Out Luka Modrić
+In Ivan Rakitić
+Out Graziano Pellè
+In Arkadiusz Milik
+Out Harry Kane
+In Graziano Pellè
+Out Andrés Iniesta
+In Łukasz Piszczek
+Out Gylfi Sigurðsson
+In Andrés Iniesta
+Out Rui Patrício
+In David de Gea
+Out Kyle Walker
+In Cristian Săpunaru
+Out Ivan Rakitić
+In Gylfi Sigurðsson
+Out André Gomes
+In Vladimír Weiss
+Out Emanuele Giaccherini
+In Ivan Rakitić
+Out Graziano Pellè
+In Jamie Vardy
+Transfer
+Assist Ledian Memushaj
+Goal Armando Sadiku
+CS Etrit Berisha
+CS Andi Lila
+CS Elseid Hysaj
+CS Ansi Agolli
+CS Mërgim Mavraj
+CS Arlind Ajeti
+CS Yann Sommer
+CS Stephan Lichtsteiner
+CS Michael Lang
+CS Ricardo Rodríguez
+CS Johan Djourou
+CS Fabian Schär
+CS Hugo Lloris
+CS Patrice Evra
+CS Adil Rami
+CS Bacary Sagna
+CS Laurent Koscielny
+Assist Joe Allen
+Goal Aaron Ramsey
+Goal Neil Taylor
+Assist Aaron Ramsey
+Goal Gareth Bale
+CS Wayne Hennessey
+CS Chris Gunter
+CS Neil Taylor
+CS Ben Davies
+CS James Chester
+CS Ashley Williams
+CS Matúš Kozáčik
+CS Peter Pekarík
+CS Martin Škrtel
+CS Ján Ďurica
+CS Norbert Gyömbér
+CS Milan Škriniar
+CS Tomáš Hubočan
+CS Dušan Švento
+CS Joe Hart
+CS Gary Cahill
+CS Chris Smalling
+CS Nathaniel Clyne
+CS Ryan Bertrand
+Assist Arkadiusz Milik
+Goal Jakub Błaszczykowski
+CS Łukasz Fabiański
+CS Michał Pazdan
+CS Artur Jędrzejczyk
+CS Thiago Cionek
+CS Kamil Glik
+Assist Thomas Müller
+Goal Mario Gómez
+CS Manuel Neuer
+CS Jonas Hector
+CS Benedikt Höwedes
+CS Mats Hummels
+CS Jérôme Boateng
+CS Joshua Kimmich
+Assist Emre Mor
+Goal Burak Yılmaz
+Assist Mehmet Topal
+Goal Ozan Tufan
+CS Volkan Babacan
+CS Hakan Balta
+CS Gökhan Gönül
+CS İsmail Köybaşı
+CS Mehmet Topal
+Assist Cesc Fàbregas
+Goal Álvaro Morata
+Assist Ivan Perišić
+Goal Nikola Kalinić
+Save Danijel Subašić
+Miss Sergio Ramos
+Assist Nikola Kalinić
+Goal Ivan Perišić
+Assist Kári Árnason
+Goal Jón Daði Böðvarsson
+Miss Aleksandar Dragović
+Assist David Alaba
+Goal Alessandro Schöpf
+Assist Theódór Elmar Bjarnason
+Goal Arnór Ingvi Traustason
+Goal Zoltán Gera
+Assist Cristiano Ronaldo
+Goal Nani
+Goal Balázs Dzsudzsák
+Assist João Mário
+Goal Cristiano Ronaldo
+Goal Balázs Dzsudzsák
+Assist Ricardo Quaresma
+Goal Cristiano Ronaldo
+Assist Wes Hoolahan
+Goal Robbie Brady
+CS Darren Randolph
+CS Séamus Coleman
+CS Richard Keogh
+CS Shane Duffy
+CS Stephen Ward
+Assist Eden Hazard
+Goal Radja Nainggolan
+CS Thibaut Courtois
+CS Toby Alderweireld
+CS Thomas Vermaelen
+CS Jan Vertonghen
+CS Thomas Meunier
+Out Jamie Vardy
+In Graziano Pellè
+Out Łukasz Piszczek
+In Darijo Srna
+Out Arkadiusz Milik
+In Mario Mandžukić
+Out Gylfi Sigurðsson
+In Emanuele Giaccherini
+Out David Alaba
+In Luka Modrić
+Out Cristian Săpunaru
+In Ricardo Carvalho
+Out Marko Arnautović
+In Jakub Błaszczykowski
+Out Sami Khedira
+In Eliseu
+Out Ricardo Carvalho
+In Sami Khedira
+Out Jakub Błaszczykowski
+In Arkadiusz Milik
+Out Graziano Pellè
+In Kyle Walker
+Out Vladimír Weiss
+In Jamie Vardy
+Out Nolito
+In Wayne Rooney
+Out Eliseu
+In Fabian Schär
+Out Sami Khedira
+In Aaron Ramsey
+Transfer
+Assist Kamil Grosicki
+Goal Jakub Błaszczykowski
+Goal Xherdan Shaqiri
+Penalty Stephan Lichtsteiner
+Penalty Robert Lewandowski
+Miss Granit Xhaka
+Penalty Arkadiusz Milik
+Penalty Xherdan Shaqiri
+Penalty Kamil Glik
+Penalty Fabian Schär
+Penalty Jakub Błaszczykowski
+Penalty Ricardo Rodríguez
+Penalty Grzegorz Krychowiak
+Assist Gareth Bale
+OG Gareth McAuley
+CS Wayne Hennessey
+CS Chris Gunter
+CS Neil Taylor
+CS Ben Davies
+CS James Chester
+CS Ashley Williams
+CS Danijel Subašić
+CS Ivan Strinić
+CS Vedran Ćorluka
+CS Darijo Srna
+CS Domagoj Vida
+CS Rui Patrício
+CS Pepe
+CS José Fonte
+CS Raphaël Guerreiro
+CS Cédric
+Goal Ricardo Quaresma
+Goal Robbie Brady
+Assist Bacary Sagna
+Goal Antoine Griezmann
+Assist Olivier Giroud
+Goal Antoine Griezmann
+Red Shane Duffy
+Goal Jérôme Boateng
+Save Matúš Kozáčik
+Miss Mesut Özil
+Assist Julian Draxler
+Goal Mario Gómez
+Assist Mats Hummels
+Goal Julian Draxler
+CS Manuel Neuer
+CS Jonas Hector
+CS Benedikt Höwedes
+CS Mats Hummels
+CS Jérôme Boateng
+CS Joshua Kimmich
+Assist Kevin De Bruyne
+Goal Toby Alderweireld
+Assist Eden Hazard
+Goal Michy Batshuayi
+Assist Kevin De Bruyne
+Goal Eden Hazard
+Assist Radja Nainggolan
+Goal Yannick Carrasco
+CS Thibaut Courtois
+CS Toby Alderweireld
+CS Thomas Vermaelen
+CS Jan Vertonghen
+CS Thomas Meunier
+Assist Emanuele Giaccherini
+Goal Giorgio Chiellini
+Goal Graziano Pellè
+CS Gianluigi Buffon
+CS Mattia De Sciglio
+CS Giorgio Chiellini
+CS Matteo Darmian
+CS Alessandro Florenzi
+CS Andrea Barzagli
+CS Leonardo Bonucci
+Goal Wayne Rooney
+Assist Kári Árnason
+Goal Ragnar Sigurðsson
+Assist Jón Daði Böðvarsson
+Goal Kolbeinn Sigþórsson
+Out Luka Modrić
+In Nolito
+Out Mario Mandžukić
+In Nani
+Out Darijo Srna
+In José Fonte
+Out José Fonte
+In Thomas Meunier
+Out Fabian Schär
+In Raphaël Guerreiro
+Out Aaron Ramsey
+In Thomas Vermaelen
+Out Ivan Rakitić
+In Jakub Błaszczykowski
+Out Adil Rami
+In Kamil Glik
+Out Dele Alli
+In Sami Khedira
+Out Marek Hamšík
+In Renato Sanches
+Out Ivan Perišić
+In Dries Mertens
+Out Sergio Ramos
+In Artur Jędrzejczyk
+Out Artur Jędrzejczyk
+In Sergio Ramos
+Out Jordi Alba
+In Joshua Kimmich
+Out Sergio Ramos
+In Artur Jędrzejczyk
+Out Gerard Piqué
+In Samuel Umtiti
+Out Álvaro Morata
+In Éder Citadin Martins
+Out Nolito
+In Graziano Pellè
+Out Andrés Iniesta
+In Blaise Matuidi
+Out Juanfran
+In Alessandro Florenzi
+Out Alessandro Florenzi
+In Axel Witsel
+Out David Silva
+In João Mário
+Out Dries Mertens
+In Dele Alli
+Out Wayne Rooney
+In Dries Mertens
+Out David de Gea
+In Rui Patrício
+Out Jamie Vardy
+In Bastian Schweinsteiger
+Out Dele Alli
+In Kingsley Coman
+Out Kyle Walker
+In Yannick Carrasco
+Transfer
+Assist Kamil Grosicki
+Goal Robert Lewandowski
+Assist Nani
+Goal Renato Sanches
+Penalty Cristiano Ronaldo
+Penalty Robert Lewandowski
+Penalty Renato Sanches
+Penalty Arkadiusz Milik
+Penalty João Moutinho
+Penalty Kamil Glik
+Penalty Nani
+Save Rui Patrício
+Miss Jakub Błaszczykowski
+Penalty Ricardo Quaresma
+Assist Eden Hazard
+Goal Radja Nainggolan
+Assist Aaron Ramsey
+Goal Ashley Williams
+Assist Aaron Ramsey
+Goal Hal Robson-Kanu
+Assist Chris Gunter
+Goal Sam Vokes
+Assist Jonas Hector
+Goal Mesut Özil
+Goal Leonardo Bonucci
+Penalty Lorenzo Insigne
+Penalty Toni Kroos
+Miss Simone Zaza
+Save Gianluigi Buffon
+Miss Thomas Müller
+Penalty Andrea Barzagli
+Miss Mesut Özil
+Miss Graziano Pellè
+Penalty Julian Draxler
+Save Manuel Neuer
+Miss Leonardo Bonucci
+Miss Bastian Schweinsteiger
+Penalty Emanuele Giaccherini
+Penalty Mats Hummels
+Penalty Marco Parolo
+Penalty Joshua Kimmich
+Penalty Mattia De Sciglio
+Penalty Jérôme Boateng
+Save Manuel Neuer
+Miss Matteo Darmian
+Penalty Jonas Hector
+Assist Blaise Matuidi
+Goal Olivier Giroud
+Assist Antoine Griezmann
+Goal Paul Pogba
+Assist Antoine Griezmann
+Goal Dimitri Payet
+Assist Olivier Giroud
+Goal Antoine Griezmann
+Assist Gylfi Sigurðsson
+Goal Kolbeinn Sigþórsson
+Assist Dimitri Payet
+Goal Olivier Giroud
+Assist Ari Freyr Skúlason
+Goal Birkir Bjarnason
+Out Raphaël Guerreiro
+In Eliseu
+Out Samuel Umtiti
+In Adil Rami
+Out Kamil Glik
+In Radja Nainggolan
+Out Jan Vertonghen
+In Jordan Lukaku
+Out Robert Lewandowski
+In Marco Parolo
+Out Jakub Błaszczykowski
+In Alessandro Florenzi
+Out Arkadiusz Milik
+In Mario Götze
+Out Eliseu
+In José Fonte
+Out Thomas Meunier
+In Neil Taylor
+Out Axel Witsel
+In Hal Robson-Kanu
+Out Toby Alderweireld
+In Cédric
+Out Thibaut Courtois
+In Wayne Hennessey
+Out Dries Mertens
+In Simone Zaza
+Out Yannick Carrasco
+In Joe Allen
+Out Eden Hazard
+In André Schürrle
+Out Kevin De Bruyne
+In Aaron Ramsey
+Out Thomas Vermaelen
+In Ricardo Quaresma
+Out Romelu Lukaku
+In Sam Vokes
+Out Radja Nainggolan
+In Adrien Silva
+Out Artur Jędrzejczyk
+In Vieirinha
+Out Aaron Ramsey
+In William Carvalho
+Out William Carvalho
+In N'Golo Kanté
+Out Alessandro Florenzi
+In Yohan Cabaye
+Out Giorgio Chiellini
+In Ashley Williams
+Out Marco Parolo
+In Shkodran Mustafi
+Out Simone Zaza
+In André-Pierre Gignac
+Out Leonardo Bonucci
+In Chris Gunter
+Out Emanuele Giaccherini
+In William Carvalho
+Out Jordan Lukaku
+In Eliseu
+Out Vieirinha
+In Danilo
+Out Joe Allen
+In Anthony Martial
+Out Anthony Martial
+In James Chester
+Out Sami Khedira
+In Joe Allen
+Out William Carvalho
+In Moussa Sissoko
+Out Graziano Pellè
+In Anthony Martial
+Out Éder Citadin Martins
+In André Gomes
+Out Andrea Barzagli
+In Eliaquim Mangala
+Out Gianluigi Buffon
+In Marc-André ter Stegen
+Out Mats Hummels
+In Raphaël Guerreiro
+Transfer
+Assist Raphaël Guerreiro
+Goal Cristiano Ronaldo
+Assist Cristiano Ronaldo
+Goal Nani
+CS Rui Patrício
+CS Bruno Alves
+CS José Fonte
+CS Raphaël Guerreiro
+CS Cédric
+Goal Antoine Griezmann
+Goal Antoine Griezmann
+CS Hugo Lloris
+CS Patrice Evra
+CS Bacary Sagna
+CS Laurent Koscielny
+CS Samuel Umtiti
+Out Raphaël Guerreiro
+In Mats Hummels
+Out Danilo
+In Aaron Ramsey
+Out James Chester
+In Raphaël Guerreiro
+Out Aaron Ramsey
+In João Moutinho
+Out Sam Vokes
+In Lukas Podolski
+Out Gareth Bale
+In William Carvalho
+Out Joe Allen
+In Sami Khedira
+Out Ashley Williams
+In Samuel Umtiti
+Out Hal Robson-Kanu
+In Rafa Silva
+Out Wayne Hennessey
+In Steve Mandanda
+Out Neil Taylor
+In Emre Can
+Out Chris Gunter
+In Christophe Jallet
+Out Christophe Jallet
+In Lucas Digne
+Out Paul Pogba
+In Dele Alli
+Out Adrien Silva
+In Paul Pogba
+Out Dele Alli
+In Adrien Silva
+Out Mario Gómez
+In Éder
+Out Mats Hummels
+In Bruno Alves
+Out Julian Draxler
+In Morgan Schneiderlin
+Out Mario Götze
+In Danilo
+Out Jonas Hector
+In Ricardo Carvalho
+Out Jérôme Boateng
+In Christophe Jallet
+Out Manuel Neuer
+In Benoît Costil
+Out André Schürrle
+In Vieirinha
+Out Nani
+In Dele Alli
+Out Antoine Griezmann
+In Nani
+Out Dele Alli
+In Antoine Griezmann
+Transfer
+CS Rui Patrício
+CS Pepe
+CS José Fonte
+CS Raphaël Guerreiro
+CS Cédric
+CS Hugo Lloris
+CS Patrice Evra
+CS Bacary Sagna
+CS Laurent Koscielny
+CS Samuel Umtiti
+Assist João Moutinho
+Goal Éder
