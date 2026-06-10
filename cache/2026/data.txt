@@ -1,0 +1,1421 @@
+Manager gb-eng Stephen Brooks
+Manager gb-sct Iain Scott
+Manager gb-eng Mitesh Patel
+Manager gb-eng Tom Paton
+Manager pt Ed Santos
+
+Country cz
+Player GK Matěj Kovář
+Player DF David Zima
+Player DF Tomáš Holeš
+Player DF Robin Hranáč
+Player DF Vladimír Coufal
+Player DF Štěpán Chaloupek
+Player DF Ladislav Krejčí
+Player MF Vladimír Darida
+Player FW Adam Hložek
+Player FW Patrik Schick
+Player FW Jan Kuchta
+Player MF Lukáš Červ
+Player FW Mojmír Chytil
+Player DF David Jurásek
+Player FW Pavel Šulc
+Player GK Jindřich Staněk
+Player MF Lukáš Provod
+Player MF Michal Sadílek
+Player FW Tomáš Chorý
+Player DF Jaroslav Zelený
+Player DF David Douděra
+Player MF Tomáš Souček
+Player GK Lukáš Horníček
+Player MF Alexandr Sojka
+Player MF Hugo Sochůrek
+Player FW Denis Višinský
+
+Country mx
+Player GK Raúl Rangel
+Player DF Jorge Sánchez
+Player DF César Montes
+Player DF Edson Álvarez
+Player DF Johan Vásquez
+Player MF Érik Lira
+Player MF Luis Romo
+Player MF Álvaro Fidalgo
+Player FW Raúl Jiménez
+Player FW Alexis Vega
+Player FW Santiago Giménez
+Player GK Carlos Acevedo
+Player GK Guillermo Ochoa
+Player FW Armando González
+Player DF Israel Reyes
+Player FW Julián Quiñones
+Player MF Orbelín Pineda
+Player MF Obed Vargas
+Player MF Gilberto Mora
+Player DF Mateo Chávez
+Player FW César Huerta
+Player FW Guillermo Martínez
+Player DF Jesús Gallardo
+Player MF Luis Chávez
+Player FW Roberto Alvarado
+Player MF Brian Gutiérrez
+
+Country za
+Player GK Ronwen Williams
+Player DF Thabang Matuludi
+Player DF Khulumani Ndamane
+Player MF Teboho Mokoena
+Player MF Thalente Mbatha
+Player DF Aubrey Modiba
+Player FW Oswin Appollis
+Player FW Tshepang Moremi
+Player FW Lyle Foster
+Player FW Relebohile Mofokeng
+Player MF Themba Zwane
+Player FW Thapelo Maseko
+Player MF Sphephelo Sithole
+Player DF Mbekezeli Mbokazi
+Player FW Iqraam Rayners
+Player GK Sipho Chaine
+Player FW Evidence Makgopa
+Player DF Samukele Kabini
+Player DF Nkosinathi Sibisi
+Player DF Khuliso Mudau
+Player DF Ime Okon
+Player GK Ricardo Goss
+Player MF Jayden Adams
+Player DF Olwethu Makhanya
+Player FW Kamogelo Sebelebele
+Player DF Bradley Cross
+
+Country kr
+Player GK Kim Seung-gyu
+Player DF Lee Han-beom
+Player MF Lee Gi-hyuk
+Player DF Kim Min-jae
+Player DF Kim Tae-hyeon
+Player MF Hwang In-beom
+Player FW Son Heung-min
+Player MF Paik Seung-ho
+Player FW Cho Gue-sung
+Player MF Lee Jae-sung
+Player MF Hwang Hee-chan
+Player GK Song Bum-keun
+Player DF Lee Tae-seok
+Player DF Cho Wi-je
+Player DF Kim Moon-hwan
+Player DF Park Jin-seob
+Player MF Bae Jun-ho
+Player FW Oh Hyeon-gyu
+Player MF Lee Kang-in
+Player MF Yang Hyun-jun
+Player GK Jo Hyeon-woo
+Player DF Seol Young-woo
+Player DF Jens Castrop
+Player MF Kim Jin-gyu
+Player MF Eom Ji-sung
+Player MF Lee Dong-gyeong
+
+Country ba
+Player GK Nikola Vasilj
+Player DF Nihad Mujakić
+Player DF Dennis Hadžikadunić
+Player DF Tarik Muharemović
+Player DF Sead Kolašinac
+Player MF Benjamin Tahirović
+Player DF Amar Dedić
+Player MF Armin Gigović
+Player FW Samed Baždar
+Player FW Ermedin Demirović
+Player FW Edin Džeko
+Player GK Mladen Jurkas
+Player MF Ivan Bašić
+Player MF Ivan Šunjić
+Player MF Amar Memić
+Player MF Amir Hadžiahmetović
+Player MF Dženis Burnić
+Player DF Nikola Katić
+Player FW Kerim Alajbegović
+Player FW Esmir Bajraktarević
+Player DF Stjepan Radeljić
+Player GK Martin Zlomislić
+Player FW Haris Tabaković
+Player DF Nidal Čelik
+Player FW Jovo Lukić
+Player MF Ermin Mahmić
+
+Country ca
+Player GK Dayne St. Clair
+Player DF Alistair Johnston
+Player DF Alfie Jones
+Player DF Luc de Fougerolles
+Player DF Joel Waterman
+Player MF Mathieu Choinière
+Player MF Stephen Eustáquio
+Player MF Ismaël Koné
+Player FW Cyle Larin
+Player FW Jonathan David
+Player MF Liam Millar
+Player FW Tani Oluwaseyi
+Player DF Derek Cornelius
+Player MF Jacob Shaffelburg
+Player DF Moïse Bombito
+Player GK Maxime Crépeau
+Player FW Tajon Buchanan
+Player GK Owen Goodman
+Player DF Alphonso Davies
+Player FW Ali Ahmed
+Player MF Jonathan Osorio
+Player DF Richie Laryea
+Player DF Niko Sigur
+Player FW Promise David
+Player MF Nathan Saliba
+
+Country qa
+Player GK Mahmud Abunada
+Player DF Pedro Miguel
+Player DF Lucas Mendes
+Player DF Issa Laye
+Player DF Jassem Gaber
+Player MF Abdulaziz Hatem
+Player FW Ahmed Alaaeldin
+Player FW Edmilson Junior
+Player FW Mohammed Muntari
+Player FW Hassan Al-Haydos
+Player FW Akram Afif
+Player MF Karim Boudiaf
+Player DF Ayoub Al-Oui
+Player DF Homam Ahmed
+Player FW Yusuf Abdurisag
+Player DF Boualem Khoukhi
+Player MF Ahmed Al-Ganehi
+Player DF Sultan Al-Brake
+Player FW Almoez Ali
+Player MF Ahmed Fathy
+Player GK Salah Zakaria
+Player GK Meshaal Barsham
+Player MF Assim Madibo
+Player FW Tahsin Jamshid
+Player DF Al-Hashmi Al-Hussain
+Player FW Mohamed Manai
+
+Country ch
+Player GK Gregor Kobel
+Player DF Miro Muheim
+Player DF Silvan Widmer
+Player DF Nico Elvedi
+Player DF Manuel Akanji
+Player MF Denis Zakaria
+Player FW Breel Embolo
+Player MF Remo Freuler
+Player MF Johan Manzambi
+Player MF Granit Xhaka
+Player FW Dan Ndoye
+Player GK Yvon Mvogo
+Player DF Ricardo Rodriguez
+Player MF Ardon Jashari
+Player MF Djibril Sow
+Player FW Christian Fassnacht
+Player FW Rubén Vargas
+Player DF Eray Cömert
+Player FW Noah Okafor
+Player MF Michel Aebischer
+Player GK Marvin Keller
+Player MF Fabian Rieder
+Player FW Zeki Amdouni
+Player DF Aurèle Amenda
+Player DF Luca Jaquez
+Player FW Cedric Itten
+
+Country br
+Player GK Alisson
+Player MF Éderson Silva
+Player DF Gabriel Magalhães
+Player DF Marquinhos
+Player MF Casemiro
+Player DF Alex Sandro
+Player FW Vinícius Júnior
+Player MF Bruno Guimarães
+Player FW Matheus Cunha
+Player FW Neymar
+Player FW Raphinha
+Player GK Weverton
+Player DF Danilo Luiz
+Player DF Bremer
+Player DF Léo Pereira
+Player DF Douglas Santos
+Player MF Fabinho
+Player MF Danilo Santos
+Player FW Endrick
+Player MF Lucas Paquetá
+Player FW Luiz Henrique
+Player FW Gabriel Martinelli
+Player GK Ederson
+Player DF Roger Ibañez
+Player FW Igor Thiago
+Player FW Rayan
+
+Country ht
+Player GK Johny Placide
+Player DF Carlens Arcus
+Player DF Keeto Thermoncy
+Player DF Ricardo Adé
+Player DF Hannes Delcroix
+Player MF Carl Sainté
+Player FW Derrick Etienne Jr.
+Player DF Martin Expérience
+Player FW Duckens Nazon
+Player MF Jean-Ricner Bellegarde
+Player FW Louicius Deedson
+Player GK Alexandre Pierre
+Player DF Duke Lacroix
+Player MF Leverton Pierre
+Player FW Ruben Providence
+Player FW Lenny Joseph
+Player MF Danley Jean Jacques
+Player FW Wilson Isidor
+Player FW Yassin Fortuné
+Player FW Frantzdy Pierrot
+Player FW Josué Casimir
+Player DF Jean-Kévin Duverne
+Player GK Josué Duverger
+Player DF Wilguens Paugain
+Player MF Dominique Simon
+Player MF Woodensky Pierre
+
+Country ma
+Player GK Yassine Bounou
+Player DF Achraf Hakimi
+Player DF Noussair Mazraoui
+Player MF Sofyan Amrabat
+Player DF Nayef Aguerd
+Player MF Ayyoub Bouaddi
+Player MF Chemsdine Talbi
+Player MF Azzedine Ounahi
+Player FW Soufiane Rahimi
+Player FW Brahim Díaz
+Player MF Ismael Saibari
+Player GK Munir Mohamedi
+Player DF Zakaria El Ouahdi
+Player DF Issa Diop
+Player MF Samir El Mourabet
+Player MF Gessime Yassine
+Player FW Abde Ezzalzouli
+Player DF Chadi Riad
+Player DF Youssef Belammari
+Player FW Ayoub El Kaabi
+Player FW Ayoube Amaimouni
+Player GK Ahmed Reda Tagnaouti
+Player MF Bilal El Khannouss
+Player MF Neil El Aynaoui
+Player DF Redouane Halhal
+Player DF Anass Salah-Eddine
+
+Country gb-sct
+Player GK Angus Gunn
+Player DF Aaron Hickey
+Player DF Andy Robertson
+Player MF Scott McTominay
+Player DF Grant Hanley
+Player DF Kieran Tierney
+Player MF John McGinn
+Player MF Tyler Fletcher
+Player FW Lyndon Dykes
+Player FW Ché Adams
+Player MF Ryan Christie
+Player GK Liam Kelly
+Player DF Jack Hendry
+Player FW Ross Stewart
+Player DF John Souttar
+Player DF Dominic Hyam
+Player FW Ben Gannon-Doak
+Player FW George Hirst
+Player MF Lewis Ferguson
+Player FW Lawrence Shankland
+Player GK Craig Gordon
+Player DF Nathan Patterson
+Player MF Kenny McLean
+Player DF Anthony Ralston
+Player FW Findlay Curtis
+Player DF Scott McKenna
+
+Country au
+Player GK Mathew Ryan
+Player DF Miloš Degenek
+Player DF Alessandro Circati
+Player DF Jacob Italiano
+Player DF Jordan Bos
+Player DF Jason Geria
+Player FW Mathew Leckie
+Player MF Connor Metcalfe
+Player FW Mohamed Touré
+Player FW Ajdin Hrustic
+Player FW Awer Mabil
+Player GK Paul Izzo
+Player MF Aiden O'Neill
+Player MF Cammy Devlin
+Player DF Kai Trewin
+Player DF Aziz Behich
+Player FW Nestory Irankunda
+Player GK Patrick Beach
+Player DF Harry Souttar
+Player FW Cristian Volpato
+Player DF Cameron Burgess
+Player MF Jackson Irvine
+Player FW Nishan Velupillay
+Player MF Paul Okon-Engstler
+Player DF Lucas Herrington
+Player FW Tete Yengi
+
+Country py
+Player GK Gatito Fernández
+Player DF Gustavo Velázquez
+Player DF Omar Alderete
+Player DF Juan José Cáceres
+Player DF Fabián Balbuena
+Player DF Júnior Alonso
+Player MF Ramón Sosa
+Player MF Diego Gómez
+Player FW Antonio Sanabria
+Player MF Miguel Almirón
+Player MF Maurício
+Player GK Orlando Gill
+Player DF José Canale
+Player MF Andrés Cubas
+Player DF Gustavo Gómez
+Player MF Damián Bobadilla
+Player FW Kaku
+Player FW Álex Arce
+Player FW Julio Enciso
+Player MF Braian Ojeda
+Player FW Gabriel Ávalos
+Player GK Gastón Olveira
+Player MF Matías Galarza
+Player MF Gustavo Caballero
+Player FW Isidro Pitta
+Player DF Alexandro Maidana
+
+Country tr
+Player GK Mert Günok
+Player DF Zeki Çelik
+Player DF Merih Demiral
+Player DF Çağlar Söyüncü
+Player MF Salih Özcan
+Player MF Orkun Kökçü
+Player FW Kerem Aktürkoğlu
+Player FW Arda Güler
+Player FW Deniz Gül
+Player MF Hakan Çalhanoğlu
+Player FW Kenan Yıldız
+Player GK Altay Bayındır
+Player DF Eren Elmalı
+Player DF Abdülkerim Bardakcı
+Player DF Ozan Kabak
+Player MF İsmail Yüksek
+Player FW İrfan Can Kahveci
+Player DF Mert Müldür
+Player FW Yunus Akgün
+Player DF Ferdi Kadıoğlu
+Player FW Barış Alper Yılmaz
+Player MF Kaan Ayhan
+Player GK Uğurcan Çakır
+Player FW Oğuz Aydın
+Player DF Samet Akaydin
+Player FW Can Uzun
+
+Country us
+Player GK Matt Turner
+Player DF Sergiño Dest
+Player DF Chris Richards
+Player MF Tyler Adams
+Player DF Antonee Robinson
+Player DF Auston Trusty
+Player MF Giovanni Reyna
+Player MF Weston McKennie
+Player FW Ricardo Pepi
+Player FW Christian Pulisic
+Player FW Brenden Aaronson
+Player DF Miles Robinson
+Player DF Tim Ream
+Player MF Sebastian Berhalter
+Player MF Cristian Roldan
+Player DF Alex Freeman
+Player MF Malik Tillman
+Player DF Max Arfsten
+Player FW Haji Wright
+Player FW Folarin Balogun
+Player FW Timothy Weah
+Player DF Mark McKenzie
+Player DF Joe Scally
+Player GK Matt Freese
+Player GK Chris Brady
+Player FW Alejandro Zendejas
+
+Country cw
+Player GK Eloy Room
+Player DF Shurandy Sambo
+Player DF Juriën Gaari
+Player DF Roshon van Eijma
+Player DF Sherel Floranus
+Player MF Godfried Roemeratoe
+Player MF Juninho Bacuna
+Player MF Livano Comenencia
+Player FW Jürgen Locadia
+Player MF Leandro Bacuna
+Player FW Jeremy Antonisse
+Player FW Sontje Hansen
+Player FW Tyrese Noslin
+Player FW Kenji Gorré
+Player MF Ar'jany Martha
+Player FW Jearl Margaritha
+Player FW Brandley Kuwas
+Player DF Armando Obispo
+Player FW Gervane Kastaneer
+Player DF Joshua Brenet
+Player MF Tahith Chong
+Player MF Kevin Felida
+Player DF Riechedly Bazoer
+Player DF Deveron Fonville
+Player GK Tyrick Bodak
+Player GK Trevor Doornbusch
+
+Country ec
+Player GK Hernán Galíndez
+Player DF Félix Torres
+Player DF Piero Hincapié
+Player DF Joel Ordóñez
+Player MF Jordy Alcívar
+Player DF Willian Pacho
+Player DF Pervis Estupiñán
+Player MF Anthony Valencia
+Player FW John Yeboah
+Player MF Kendry Páez
+Player FW Kevin Rodríguez
+Player GK Moisés Ramírez
+Player FW Enner Valencia
+Player MF Alan Minda
+Player MF Pedro Vite
+Player FW Jordy Caicedo
+Player DF Ángelo Preciado
+Player MF Denil Castillo
+Player FW Gonzalo Plata
+Player FW Nilson Angulo
+Player MF Alan Franco
+Player GK Gonzalo Valle
+Player MF Moisés Caicedo
+Player FW Jeremy Arévalo
+Player DF Jackson Porozo
+Player DF Yaimar Medina
+
+Country de
+Player GK Manuel Neuer
+Player DF Antonio Rüdiger
+Player DF Waldemar Anton
+Player DF Jonathan Tah
+Player MF Aleksandar Pavlović
+Player DF Joshua Kimmich
+Player FW Kai Havertz
+Player MF Leon Goretzka
+Player MF Jamie Leweling
+Player MF Jamal Musiala
+Player FW Nick Woltemade
+Player GK Oliver Baumann
+Player MF Pascal Groß
+Player FW Maximilian Beier
+Player DF Nico Schlotterbeck
+Player MF Angelo Stiller
+Player MF Florian Wirtz
+Player DF Nathaniel Brown
+Player MF Leroy Sané
+Player MF Nadiem Amiri
+Player GK Alexander Nübel
+Player DF David Raum
+Player MF Felix Nmecha
+Player DF Malick Thiaw
+Player MF Assan Ouédraogo
+Player FW Deniz Undav
+
+Country ci
+Player GK Yahia Fofana
+Player DF Ousmane Diomande
+Player DF Ghislain Konan
+Player MF Jean Michaël Seri
+Player DF Wilfried Singo
+Player MF Seko Fofana
+Player DF Odilon Kossounou
+Player MF Franck Kessié
+Player FW Ange-Yoan Bonny
+Player FW Simon Adingra
+Player FW Yan Diomande
+Player FW Elye Wahi
+Player DF Christopher Opéri
+Player FW Oumar Diakité
+Player FW Amad Diallo
+Player GK Mohamed Koné
+Player DF Guéla Doué
+Player MF Ibrahim Sangaré
+Player FW Nicolas Pépé
+Player DF Emmanuel Agbadou
+Player DF Evan Ndicka
+Player FW Evann Guessand
+Player GK Alban Lafont
+Player FW Bazoumana Touré
+Player MF Parfait Guiagon
+Player MF Christ Inao Oulaï
+
+Country jp
+Player GK Zion Suzuki
+Player DF Yukinari Sugawara
+Player DF Shōgo Taniguchi
+Player DF Kō Itakura
+Player DF Yūto Nagatomo
+Player MF Wataru Endo
+Player MF Ao Tanaka
+Player MF Takefusa Kubo
+Player FW Keisuke Gotō
+Player MF Ritsu Dōan
+Player MF Daizen Maeda
+Player GK Keisuke Ōsako
+Player MF Keito Nakamura
+Player MF Junya Itō
+Player MF Daichi Kamada
+Player DF Tsuyoshi Watanabe
+Player MF Yuito Suzuki
+Player FW Ayase Ueda
+Player FW Kōki Ogawa
+Player DF Ayumu Seko
+Player DF Hiroki Itō
+Player DF Takehiro Tomiyasu
+Player GK Tomoki Hayakawa
+Player MF Kaishū Sano
+Player DF Junnosuke Suzuki
+Player FW Kento Shiogai
+
+Country nl
+Player GK Bart Verbruggen
+Player DF Lutsharel Geertruida
+Player MF Marten de Roon
+Player DF Virgil van Dijk
+Player DF Nathan Aké
+Player DF Jan Paul van Hecke
+Player MF Justin Kluivert
+Player MF Ryan Gravenberch
+Player FW Wout Weghorst
+Player FW Memphis Depay
+Player FW Cody Gakpo
+Player DF Mats Wieffer
+Player GK Robin Roefs
+Player MF Tijjani Reijnders
+Player DF Micky van de Ven
+Player MF Guus Til
+Player FW Noa Lang
+Player FW Donyell Malen
+Player FW Brian Brobbey
+Player MF Teun Koopmeiners
+Player MF Frenkie de Jong
+Player DF Denzel Dumfries
+Player GK Mark Flekken
+Player FW Crysencio Summerville
+Player DF Jorrel Hato
+Player MF Quinten Timber
+
+Country se
+Player GK Jacob Widell Zetterström
+Player DF Gustaf Lagerbielke
+Player DF Victor Lindelöf
+Player DF Isak Hien
+Player DF Gabriel Gudmundsson
+Player DF Herman Johansson
+Player MF Lucas Bergvall
+Player DF Daniel Svensson
+Player FW Alexander Isak
+Player MF Benjamin Nygren
+Player FW Anthony Elanga
+Player GK Viktor Johansson
+Player MF Ken Sema
+Player DF Hjalmar Ekdal
+Player DF Carl Starfelt
+Player MF Jesper Karlström
+Player FW Viktor Gyökeres
+Player MF Yasin Ayari
+Player MF Mattias Svanberg
+Player DF Eric Smith
+Player DF Alexander Bernhardsson
+Player MF Besfort Zeneli
+Player GK Kristoffer Nordfeldt
+Player DF Elliot Stroud
+Player FW Gustaf Nilsson
+Player FW Taha Ali
+
+Country tn
+Player GK Mouhib Chamakh
+Player DF Ali Abdi
+Player DF Montassar Talbi
+Player DF Omar Rekik
+Player DF Adem Arous
+Player DF Dylan Bronn
+Player FW Elias Achouri
+Player FW Elias Saad
+Player FW Hazem Mastouri
+Player MF Hannibal Mejbri
+Player MF Ismaël Gharbi
+Player DF Mortadha Ben Ouanes
+Player MF Rani Khedira
+Player MF Khalil Ayari
+Player MF Hadj Mahmoud
+Player GK Aymen Dahmen
+Player MF Ellyes Skhiri
+Player FW Rayan Elloumi
+Player FW Firas Chaouat
+Player DF Yan Valery
+Player DF Mohamed Amine Ben Hamida
+Player GK Sabri Ben Hessen
+Player DF Moutaz Neffati
+Player DF Raed Chikhaoui
+Player MF Anis Ben Slimane
+Player MF Sebastian Tounekti
+
+Country be
+Player GK Thibaut Courtois
+Player DF Zeno Debast
+Player DF Arthur Theate
+Player DF Brandon Mechele
+Player DF Maxim De Cuyper
+Player MF Axel Witsel
+Player MF Kevin De Bruyne
+Player MF Youri Tielemans
+Player FW Romelu Lukaku
+Player FW Leandro Trossard
+Player FW Jérémy Doku
+Player GK Senne Lammens
+Player GK Mike Penders
+Player FW Dodi Lukébakio
+Player DF Thomas Meunier
+Player DF Koni De Winter
+Player FW Charles De Ketelaere
+Player DF Joaquin Seys
+Player MF Diego Moreira
+Player MF Hans Vanaken
+Player DF Timothy Castagne
+Player MF Alexis Saelemaekers
+Player MF Nicolas Raskin
+Player MF Amadou Onana
+Player DF Nathan Ngoy
+Player FW Matias Fernandez-Pardo
+
+Country eg
+Player GK Mohamed El Shenawy
+Player DF Yasser Ibrahim
+Player DF Mohamed Hany
+Player DF Hossam Abdelmaguid
+Player DF Ramy Rabia
+Player DF Mohamed Abdelmonem
+Player FW Trézéguet
+Player MF Emam Ashour
+Player FW Hamza Abdelkarim
+Player FW Mohamed Salah
+Player MF Mostafa Ziko
+Player FW Haissem Hassan
+Player DF Ahmed Fatouh
+Player MF Hamdy Fathy
+Player DF Karim Hafez
+Player GK El Mahdy Soliman
+Player MF Mohanad Lasheen
+Player MF Nabil Emad
+Player MF Marwan Attia
+Player FW Ibrahim Adel
+Player MF Mahmoud Saber
+Player FW Omar Marmoush
+Player GK Mostafa Shobeir
+Player DF Tarek Alaa
+Player FW Zizo
+Player GK Mohamed Alaa
+
+Country ir
+Player GK Alireza Beiranvand
+Player DF Saleh Hardani
+Player DF Ehsan Hajsafi
+Player DF Shojae Khalilzadeh
+Player DF Milad Mohammadi
+Player MF Saeid Ezatolahi
+Player MF Alireza Jahanbakhsh
+Player MF Mohammad Mohebi
+Player FW Mehdi Taremi
+Player FW Mehdi Ghayedi
+Player FW Ali Alipour
+Player GK Payam Niazmand
+Player DF Hossein Kanaanizadegan
+Player MF Saman Ghoddos
+Player MF Rouzbeh Cheshmi
+Player MF Mehdi Torabi
+Player DF Aria Yousefi
+Player FW Amirhossein Hosseinzadeh
+Player DF Ali Nemati
+Player FW Shahriyar Moghanlou
+Player MF Mohammad Ghorbani
+Player GK Hossein Hosseini
+Player DF Ramin Rezaeian
+Player FW Dennis Eckert
+Player DF Danial Eiri
+Player MF Amirmohammad Razzaghinia
+
+Country nz
+Player GK Max Crocombe
+Player DF Tim Payne
+Player DF Francis de Vries
+Player DF Tyler Bindon
+Player DF Michael Boxall
+Player MF Joe Bell
+Player MF Matthew Garbett
+Player MF Marko Stamenić
+Player FW Chris Wood
+Player MF Sarpreet Singh
+Player MF Elijah Just
+Player GK Alex Paulsen
+Player DF Liberato Cacace
+Player MF Alex Rufer
+Player DF Nando Pijnaker
+Player DF Finn Surman
+Player FW Kosta Barbarouses
+Player FW Ben Waine
+Player MF Ben Old
+Player MF Callum McCowatt
+Player FW Jesse Randall
+Player GK Michael Woud
+Player MF Ryan Thomas
+Player DF Callan Elliot
+Player MF Lachlan Bayliss
+Player DF Tommy Smith
+
+Country cv
+Player GK Vozinha
+Player DF Stopira
+Player DF Diney
+Player DF Roberto Lopes
+Player DF Logan Costa
+Player MF Kevin Pina
+Player MF Jovane Cabral
+Player MF João Paulo
+Player FW Gilson Benchimol
+Player MF Jamiro Monteiro
+Player MF Garry Rodrigues
+Player GK Márcio Rosa
+Player DF Sidny Lopes Cabral
+Player MF Deroy Duarte
+Player MF Laros Duarte
+Player MF Yannick Semedo
+Player MF Willy Semedo
+Player MF Telmo Arcanjo
+Player FW Dailon Livramento
+Player FW Ryan Mendes
+Player MF Nuno da Costa
+Player DF Steven Moreira
+Player GK CJ dos Santos
+Player DF Wagner Pina
+Player DF Kelvin Pires
+Player MF Hélio Varela
+
+Country sa
+Player GK Nawaf Al-Aqidi
+Player DF Ali Majrashi
+Player DF Ali Lajami
+Player DF Abdulelah Al-Amri
+Player DF Hassan Al-Tambakti
+Player MF Nasser Al-Dawsari
+Player MF Musab Al-Juwayr
+Player FW Ayman Yahya
+Player FW Firas Al-Buraikan
+Player FW Salem Al-Dawsari
+Player FW Saleh Al-Shehri
+Player DF Saud Abdulhamid
+Player DF Nawaf Boushal
+Player DF Hassan Kadesh
+Player MF Abdullah Al-Khaibari
+Player MF Ziyad Al-Johani
+Player FW Khalid Al-Ghannam
+Player MF Alaa Al-Hejji
+Player FW Abdullah Al-Hamdan
+Player FW Sultan Mandash
+Player GK Mohammed Al-Owais
+Player GK Ahmed Al-Kassar
+Player MF Mohamed Kanno
+Player DF Moteb Al-Harbi
+Player DF Jehad Thakri
+Player DF Mohammed Abu Al-Shamat
+
+Country es
+Player GK David Raya
+Player DF Marc Pubill
+Player DF Álex Grimaldo
+Player DF Eric García
+Player DF Marcos Llorente
+Player MF Mikel Merino
+Player FW Ferran Torres
+Player MF Fabián Ruiz
+Player MF Gavi
+Player FW Dani Olmo
+Player FW Yéremy Pino
+Player DF Pedro Porro
+Player GK Joan Garcia
+Player DF Aymeric Laporte
+Player MF Álex Baena
+Player MF Rodri
+Player FW Nico Williams
+Player MF Martín Zubimendi
+Player FW Lamine Yamal
+Player MF Pedri
+Player FW Mikel Oyarzabal
+Player DF Pau Cubarsí
+Player GK Unai Simón
+Player DF Marc Cucurella
+Player FW Víctor Muñoz
+Player FW Borja Iglesias
+
+Country uy
+Player GK Sergio Rochet
+Player DF José Giménez
+Player DF Sebastián Cáceres
+Player DF Ronald Araújo
+Player MF Manuel Ugarte
+Player MF Rodrigo Bentancur
+Player MF Nicolás de la Cruz
+Player MF Federico Valverde
+Player FW Darwin Núñez
+Player MF Giorgian de Arrascaeta
+Player FW Facundo Pellistri
+Player GK Santiago Mele
+Player DF Guillermo Varela
+Player MF Agustín Canobbio
+Player MF Emiliano Martínez Toranza
+Player DF Mathías Olivera
+Player DF Matías Viña
+Player FW Brian Rodríguez
+Player FW Rodrigo Aguirre
+Player MF Maximiliano Araújo
+Player FW Federico Viñas
+Player MF Joaquín Piquerez
+Player GK Fernando Muslera
+Player DF Santiago Bueno
+Player MF Juan Manuel Sanabria
+Player MF Rodrigo Zalazar
+
+Country fr
+Player GK Brice Samba
+Player DF Malo Gusto
+Player DF Lucas Digne
+Player DF Dayot Upamecano
+Player DF Jules Koundé
+Player MF Manu Koné
+Player FW Ousmane Dembélé
+Player MF Aurélien Tchouaméni
+Player FW Marcus Thuram
+Player FW Kylian Mbappé
+Player FW Michael Olise
+Player FW Bradley Barcola
+Player MF N'Golo Kanté
+Player MF Adrien Rabiot
+Player DF Ibrahima Konaté
+Player GK Mike Maignan
+Player DF William Saliba
+Player MF Warren Zaïre-Emery
+Player DF Théo Hernandez
+Player FW Désiré Doué
+Player DF Lucas Hernandez
+Player FW Jean-Philippe Mateta
+Player GK Robin Risser
+Player MF Rayan Cherki
+Player MF Maghnes Akliouche
+Player DF Maxence Lacroix
+
+Country iq
+Player GK Fahad Talib
+Player DF Rebin Sulaka
+Player DF Hussein Ali
+Player DF Zaid Tahseen
+Player DF Akam Hashim
+Player DF Manaf Younis
+Player MF Youssef Amyn
+Player MF Ibrahim Bayesh
+Player FW Ali Al-Hamadi
+Player FW Mohanad Ali
+Player FW Ahmed Qasem
+Player GK Jalal Hassan
+Player FW Ali Yousif
+Player MF Zidane Iqbal
+Player DF Ahmed Maknzi
+Player MF Amir Al-Ammari
+Player FW Ali Jasim
+Player FW Aymen Hussein
+Player MF Kevin Yakob
+Player MF Aimar Sher
+Player FW Marko Farji
+Player GK Ahmed Basil
+Player DF Merchas Doski
+Player MF Zaid Ismail
+Player DF Mustafa Saadoon
+Player DF Frans Putros
+
+Country no
+Player GK Ørjan Nyland
+Player MF Morten Thorsby
+Player DF Kristoffer Ajer
+Player DF Leo Østigård
+Player DF David Møller Wolfe
+Player MF Patrick Berg
+Player FW Alexander Sørloth
+Player MF Sander Berge
+Player FW Erling Haaland
+Player MF Martin Ødegaard
+Player FW Jørgen Strand Larsen
+Player GK Sander Tangvik
+Player GK Egil Selvik
+Player MF Fredrik Aursnes
+Player DF Fredrik André Bjørkan
+Player DF Marcus Holmgren Pedersen
+Player DF Torbjørn Heggem
+Player MF Kristian Thorstvedt
+Player MF Thelo Aasgaard
+Player FW Antonio Nusa
+Player MF Andreas Schjelderup
+Player MF Oscar Bobb
+Player MF Jens Petter Hauge
+Player DF Sondre Langås
+Player DF Henrik Falchener
+Player FW Julian Ryerson
+
+Country sn
+Player GK Yehvann Diouf
+Player DF Mamadou Sarr
+Player DF Kalidou Koulibaly
+Player DF Abdoulaye Seck
+Player MF Idrissa Gueye
+Player MF Pathé Ciss
+Player FW Assane Diao
+Player MF Lamine Camara
+Player FW Bamba Dieng
+Player FW Sadio Mané
+Player FW Nicolas Jackson
+Player FW Cherif Ndiaye
+Player FW Iliman Ndiaye
+Player DF Ismail Jakobs
+Player DF Krépin Diatta
+Player GK Édouard Mendy
+Player MF Pape Matar Sarr
+Player FW Ismaïla Sarr
+Player DF Moussa Niakhaté
+Player FW Ibrahim Mbaye
+Player MF Habib Diarra
+Player MF Bara Sapoko Ndiaye
+Player GK Mory Diaw
+Player DF Antoine Mendy
+Player DF El Hadji Malick Diouf
+Player MF Pape Gueye
+
+Country dz
+Player GK Melvin Mastil
+Player DF Aïssa Mandi
+Player DF Achref Abada
+Player DF Mohamed Amine Tougai
+Player DF Zineddine Belaïd
+Player MF Ramiz Zerrouki
+Player FW Riyad Mahrez
+Player MF Houssem Aouar
+Player FW Amine Gouiri
+Player MF Farès Chaïbi
+Player FW Anis Hadj Moussa
+Player FW Nadhir Benbouali
+Player DF Jaouen Hadjam
+Player MF Hicham Boudaoui
+Player DF Rayan Aït-Nouri
+Player GK Oussama Benbot
+Player DF Rafik Belghali
+Player FW Mohamed Amoura
+Player MF Nabil Bentaleb
+Player FW Adil Boulbina
+Player DF Ramy Bensebaini
+Player MF Ibrahim Maza
+Player GK Luca Zidane
+Player MF Yacine Titraoui
+Player FW Farès Ghedjemis
+Player DF Samir Chergui
+
+Country ar
+Player GK Juan Musso
+Player DF Nicolás Tagliafico
+Player DF Gonzalo Montiel
+Player MF Leandro Paredes
+Player DF Lisandro Martínez
+Player MF Rodrigo De Paul
+Player MF Valentín Barco
+Player FW Julián Alvarez
+Player FW Lionel Messi
+Player MF Giovani Lo Celso
+Player GK Gerónimo Rulli
+Player DF Cristian Romero
+Player MF Exequiel Palacios
+Player MF Nicolás González
+Player FW Thiago Almada
+Player FW Giuliano Simeone
+Player FW Nico Paz
+Player DF Nicolás Otamendi
+Player MF Alexis Mac Allister
+Player FW José Manuel López
+Player FW Lautaro Martínez
+Player GK Emiliano Martínez
+Player MF Enzo Fernández
+Player DF Facundo Medina
+Player DF Nahuel Molina
+
+Country at
+Player GK Alexander Schlager
+Player DF David Affengruber
+Player DF Kevin Danso
+Player MF Xaver Schlager
+Player DF Stefan Posch
+Player MF Nicolas Seiwald
+Player FW Marko Arnautović
+Player DF David Alaba
+Player MF Marcel Sabitzer
+Player MF Florian Grillitsch
+Player FW Michael Gregoritsch
+Player GK Florian Wiegele
+Player GK Patrick Pentz
+Player FW Saša Kalajdžić
+Player DF Philipp Lienhart
+Player DF Phillipp Mwene
+Player MF Carney Chukwuemeka
+Player MF Romano Schmid
+Player MF Konrad Laimer
+Player FW Patrick Wimmer
+Player MF Alexander Prass
+Player DF Marco Friedl
+Player MF Paul Wanner
+Player DF Michael Svoboda
+Player MF Alessandro Schöpf
+
+Country jo
+Player GK Yazeed Abulaila
+Player DF Mohammad Abu Hashish
+Player DF Abdallah Nasib
+Player DF Husam Abu Dahab
+Player DF Yazan Al-Arab
+Player MF Amer Jamous
+Player FW Mohammad Abu Zrayq
+Player MF Noor Al-Rawabdeh
+Player FW Ali Olwan
+Player FW Musa Al-Taamari
+Player FW Odeh Al-Fakhouri
+Player GK Nour Bani Attiah
+Player FW Mahmoud Al-Mardi
+Player MF Rajaei Ayed
+Player MF Ibrahim Sadeh
+Player DF Mo Abualnadi
+Player DF Salim Obaid
+Player DF Mohammad Taha
+Player DF Saed Al-Rosan
+Player MF Mohannad Abu Taha
+Player MF Nizar Al-Rashdan
+Player GK Abdallah Al-Fakhouri
+Player DF Ihsan Haddad
+Player FW Ali Azaizeh
+Player MF Mohammad Al-Dawoud
+Player DF Anas Badawi
+
+Country co
+Player GK David Ospina
+Player DF Daniel Muñoz
+Player DF Jhon Lucumí
+Player DF Santiago Arias
+Player MF Kevin Castaño
+Player MF Richard Ríos
+Player FW Luis Díaz
+Player MF Jorge Carrascal
+Player FW Jhon Córdoba
+Player MF James Rodríguez
+Player MF Jhon Arias
+Player GK Camilo Vargas
+Player DF Yerry Mina
+Player DF Gustavo Puerta
+Player MF Juan Portilla
+Player MF Jefferson Lerma
+Player DF Johan Mojica
+Player DF Willer Ditta
+Player FW Cucho Hernández
+Player MF Juan Fernando Quintero
+Player FW Jaminton Campaz
+Player DF Deiver Machado
+Player DF Davinson Sánchez
+Player GK Álvaro Montero
+Player FW Luis Suárez
+Player FW Andrés Gómez
+
+Country cd
+Player GK Lionel Mpasi
+Player DF Aaron Wan-Bissaka
+Player DF Steve Kapuadi
+Player DF Axel Tuanzebe
+Player DF Dylan Batubinsika
+Player MF Ngal'ayel Mukau
+Player MF Nathanaël Mbuku
+Player MF Samuel Moutoussamy
+Player FW Brian Cipenga
+Player MF Théo Bongonda
+Player FW Gaël Kakuta
+Player DF Joris Kayembe
+Player FW Meschak Elia
+Player MF Noah Sadiki
+Player MF Aaron Tshibola
+Player GK Timothy Fayulu
+Player FW Cédric Bakambu
+Player MF Charles Pickel
+Player FW Fiston Mayele
+Player FW Yoane Wissa
+Player GK Matthieu Epolo
+Player DF Chancel Mbemba
+Player FW Simon Banza
+Player DF Gédéon Kalulu
+Player MF Edo Kayembe
+Player DF Arthur Masuaku
+
+Country pt
+Player GK Diogo Costa
+Player DF Nélson Semedo
+Player DF Rúben Dias
+Player DF Tomás Araújo
+Player DF Diogo Dalot
+Player MF Matheus Nunes
+Player FW Cristiano Ronaldo
+Player MF Bruno Fernandes
+Player FW Gonçalo Ramos
+Player MF Bernardo Silva
+Player FW João Félix
+Player GK José Sá
+Player DF Renato Veiga
+Player DF Gonçalo Inácio
+Player MF João Neves
+Player FW Francisco Trincão
+Player FW Rafael Leão
+Player FW Pedro Neto
+Player FW Gonçalo Guedes
+Player DF João Cancelo
+Player MF Rúben Neves
+Player GK Rui Silva
+Player MF Vitinha
+Player DF Samú Costa
+Player DF Nuno Mendes
+Player FW Francisco Conceição
+
+Country uz
+Player GK Utkir Yusupov
+Player DF Abdukodir Khusanov
+Player DF Khojiakbar Alijonov
+Player DF Farrukh Sayfiev
+Player DF Rustam Ashurmatov
+Player MF Akmal Mozgovoy
+Player MF Otabek Shukurov
+Player MF Jamshid Iskanderov
+Player MF Odiljon Hamrobekov
+Player MF Jaloliddin Masharipov
+Player MF Oston Urunov
+Player GK Abduvohid Nematov
+Player DF Sherzod Nasrullaev
+Player FW Eldor Shomurodov
+Player DF Umar Eshmurodov
+Player GK Botirali Ergashev
+Player MF Dostonbek Khamdamov
+Player DF Abdulla Abdullaev
+Player MF Azizjon Ganiev
+Player FW Azizbek Amonov
+Player FW Igor Sergeev
+Player MF Abbosbek Fayzullaev
+Player MF Sherzod Esanov
+Player DF Bekhruz Karimov
+Player DF Avazbek Ulmasaliev
+Player DF Jakhongir Urozov
+
+Country hr
+Player GK Dominik Livaković
+Player DF Josip Stanišić
+Player DF Marin Pongračić
+Player DF Joško Gvardiol
+Player DF Duje Ćaleta-Car
+Player DF Josip Šutalo
+Player MF Nikola Moro
+Player MF Mateo Kovačić
+Player FW Andrej Kramarić
+Player MF Luka Modrić
+Player FW Ante Budimir
+Player GK Ivor Pandur
+Player MF Nikola Vlašić
+Player FW Ivan Perišić
+Player MF Mario Pašalić
+Player MF Martin Baturina
+Player MF Petar Sučić
+Player DF Kristijan Jakić
+Player MF Toni Fruk
+Player FW Igor Matanović
+Player MF Luka Sučić
+Player DF Luka Vušković
+Player GK Dominik Kotarski
+Player FW Marco Pašalić
+Player DF Martin Erlić
+Player FW Petar Musa
+
+Country gb-eng
+Player GK Jordan Pickford
+Player DF Ezri Konsa
+Player DF Nico O'Reilly
+Player MF Declan Rice
+Player DF John Stones
+Player DF Marc Guéhi
+Player FW Bukayo Saka
+Player MF Elliot Anderson
+Player FW Harry Kane
+Player MF Jude Bellingham
+Player FW Marcus Rashford
+Player DF Tino Livramento
+Player GK Dean Henderson
+Player MF Jordan Henderson
+Player DF Dan Burn
+Player MF Kobbie Mainoo
+Player MF Morgan Rogers
+Player FW Anthony Gordon
+Player FW Ollie Watkins
+Player FW Noni Madueke
+Player MF Eberechi Eze
+Player FW Ivan Toney
+Player GK James Trafford
+Player DF Reece James
+Player DF Djed Spence
+Player DF Jarell Quansah
+
+Country gh
+Player GK Lawrence Ati-Zigi
+Player DF Alidu Seidu
+Player MF Caleb Yirenkyi
+Player DF Jonas Adjetey
+Player MF Thomas Partey
+Player DF Abdul Mumin
+Player FW Abdul Fatawu
+Player MF Kwasi Sibo
+Player FW Jordan Ayew
+Player FW Brandon Thomas-Asante
+Player MF Antoine Semenyo
+Player GK Joseph Anang
+Player FW Christopher Bonsu Baah
+Player DF Gideon Mensah
+Player MF Elisha Owusu
+Player GK Benjamin Asare
+Player DF Abdul Rahman Baba
+Player DF Jerome Opoku
+Player FW Iñaki Williams
+Player MF Augustine Boakye
+Player DF Kojo Peprah Oppong
+Player FW Kamaldeen Sulemana
+Player DF Derrick Luckassen
+Player FW Ernest Nuamah
+Player FW Prince Kwabena Adu
+Player DF Marvin Senaya
+
+Country pa
+Player GK Luis Mejía
+Player DF César Blackman
+Player DF José Córdoba
+Player DF Fidel Escobar
+Player DF Edgardo Fariña
+Player MF Cristian Martínez
+Player MF José Luis Rodríguez
+Player MF Adalberto Carrasquilla
+Player FW Tomás Rodríguez
+Player MF Ismael Díaz
+Player MF Yoel Bárcenas
+Player GK César Samudio
+Player DF Jiovany Ramos
+Player DF Carlos Harvey
+Player DF Eric Davis
+Player DF Andrés Andrade
+Player FW José Fajardo
+Player FW Cecilio Waterman
+Player MF Alberto Quintero
+Player MF Aníbal Godoy
+Player MF César Yanis
+Player GK Orlando Mosquera
+Player DF Michael Amir Murillo
+Player FW Azarias Londoño
+Player DF Roderick Miller
+Player DF Jorge Gutiérrez
+
+Draft Kylian Mbappé
+Draft Harry Kane
+Draft Raphinha
+Draft Lamine Yamal
+Draft Bruno Fernandes
+
+Draft Álex Grimaldo
+Draft Vinícius Júnior
+Draft Mikel Oyarzabal
+Draft Erling Haaland
+Draft Denzel Dumfries
+
+Draft Joshua Kimmich
+Draft Lionel Messi
+Draft Jamal Musiala
+Draft Michael Olise
+Draft Nico Williams
+
+Draft Nuno Mendes
+Draft Marc Cucurella
+Draft Rayan Cherki
+Draft Bernardo Silva
+Draft Florian Wirtz
+
+Draft Kevin De Bruyne
+Draft Pedri
+Draft Pedro Porro
+Draft Jude Bellingham
+Draft Achraf Hakimi
+
+Draft Emiliano Martínez
+Draft Mike Maignan
+Draft Jonathan Tah
+Draft Aymeric Laporte
+Draft Kai Havertz
+
+Draft Julián Alvarez
+Draft Virgil van Dijk
+Draft Unai Simón
+Draft Nico O'Reilly
+Draft Fabián Ruiz
+
+Draft Rafael Leão
+Draft Gabriel Magalhães
+Draft James Rodríguez
+Draft Marquinhos
+Draft João Cancelo
+
+Draft Martin Ødegaard
+Draft Pau Cubarsí
+Draft Scott McTominay
+Draft Federico Valverde
+Draft Ousmane Dembélé
+
+Draft Théo Hernandez
+Draft Rúben Dias
+Draft Marcos Llorente
+Draft Jordan Pickford
+Draft Reece James
+
+Draft Diogo Costa
+Draft Vitinha
+Draft Dani Olmo
+Draft Leroy Sané
+Draft Hakan Çalhanoğlu
+
+Out Pedro Porro
+In Ricardo Rodriguez
+Out Dani Olmo
+In Breel Embolo
+Out Álex Grimaldo
+In Pedro Porro
+Out Rayan Cherki
+In Morgan Rogers
