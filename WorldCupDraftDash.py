@@ -1859,4 +1859,4 @@ def update_player_gw_breakdown(active_cell, virtual_data):
 # Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8081)
+    app.run(host="0.0.0.0", port=8080)
