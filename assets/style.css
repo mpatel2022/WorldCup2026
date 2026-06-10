@@ -1,0 +1,175 @@
+/* === Base Layout === */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* === Headings === */
+h1, h2, h3, h4, h5 {
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+/* === Dropdowns === */
+.Select-control,
+.Select-menu-outer {
+    background-color: #1f1f1f !important;
+    border-color: #444 !important;
+    color: #e0e0e0 !important;
+}
+
+.Select-placeholder,
+.Select-value-label {
+    color: #e0e0e0 !important;
+}
+
+.Select-arrow-zone {
+    color: #aaa !important;
+}
+
+/* === Tabs === */
+.tab {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+    border: 1px solid #333;
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.tab--selected {
+    background-color: #333;
+    border-bottom: 2px solid #00bcd4;
+    font-weight: bold;
+}
+
+/* === Graphs === */
+.js-plotly-plot {
+    background-color: #121212 !important;
+}
+
+/* === DataTable === */
+.dash-table-container .dash-spreadsheet {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+    border: 1px solid #444;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner {
+    background-color: #1f1f1f;
+}
+
+.dash-table-container .dash-spreadsheet td {
+    border: 1px solid #444;
+}
+
+.dash-table-container .dash-spreadsheet th {
+    background-color: #2a2a2a;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* === Radio Buttons & Inputs === */
+input[type="radio"] {
+    accent-color: #00bcd4;
+}
+
+label {
+    color: #e0e0e0;
+    font-weight: 500;
+}
+
+/* === Summary Panel === */
+.summary-panel {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    padding: 15px;
+    border-radius: 8px;
+    color: #e0e0e0;
+}
+
+/* === Buttons (if used) === */
+button {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #555;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #444;
+}
+
+/* === Misc === */
+hr {
+    border-color: #444;
+}
+
+
+/* === Responsive Tweaks for Mobile === */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    h1, h2, h3 {
+        font-size: 1.4em;
+    }
+
+    .tab {
+        display: block;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .tab--selected {
+        border-bottom: none;
+        border-left: 4px solid #00bcd4;
+    }
+
+    .Select-control,
+    .Select-menu-outer {
+        width: 100% !important;
+        font-size: 14px;
+    }
+
+    .dash-table-container {
+        overflow-x: auto;
+    }
+
+    .dash-table-container .dash-spreadsheet {
+        font-size: 13px;
+    }
+
+    .summary-panel {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .js-plotly-plot {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    /* Optional: Stack layout columns vertically */
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .col {
+        width: 100% !important;
+        margin-bottom: 10px;
+    }
+}

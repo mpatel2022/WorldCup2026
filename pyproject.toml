@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "WorldCupDraftDash"
+version = "0.1.0"
+description = "Cumulative World Cup draft dashboard"
+dependencies = [
+    "pandas",
+    "dash",
+    "plotly",
+    "numpy",
+    "requests",
+    "colorlover",
+    "dash-bootstrap-components",
+]
