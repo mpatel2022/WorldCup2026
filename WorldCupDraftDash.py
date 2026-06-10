@@ -1217,6 +1217,7 @@ app.layout = html.Div(
                             "Refresh Cache",
                             id="refresh-cache-btn",
                             n_clicks=0,
+                            disabled=False,
                             style={
                                 "backgroundColor": "#555",
                                 "color": COLOUR_WHITE,
@@ -1247,6 +1248,26 @@ app.layout = html.Div(
 
 
 # ---------------------------------------------------------------------------
+# Disable refresh button for previous (completed) years
+# ---------------------------------------------------------------------------
+@app.callback(
+    Output("refresh-cache-btn", "disabled"),
+    Output("refresh-cache-btn", "style"),
+    Input("year-dropdown", "value"),
+)
+def toggle_refresh_button(selected_year):
+    is_previous_year = selected_year != DEFAULT_YEAR
+    base_style = {
+        "border": "none",
+        "padding": "6px 14px",
+        "borderRadius": "4px",
+    }
+    if is_previous_year:
+        return True, {**base_style, "backgroundColor": "#333", "color": "#666", "cursor": "not-allowed"}
+    return False, {**base_style, "backgroundColor": "#555", "color": COLOUR_WHITE, "cursor": "pointer"}
+
+
+# ---------------------------------------------------------------------------
 # Data reload callback (year change + refresh button)
 # ---------------------------------------------------------------------------
 @app.callback(
@@ -1260,7 +1281,7 @@ app.layout = html.Div(
 def handle_data_reload(selected_year, _n_clicks, current_trigger):
     ctx = dash.callback_context
     trigger_id = ctx.triggered[0]["prop_id"].split(".")[0] if ctx.triggered else ""
-    force_refresh = trigger_id == "refresh-cache-btn"
+    force_refresh = trigger_id == "refresh-cache-btn" and selected_year == DEFAULT_YEAR
     try:
         load_year_data(selected_year, force_cache_refresh=force_refresh)
         status_msg = f"Loaded {selected_year}" + (" (refreshed)" if force_refresh else "")
