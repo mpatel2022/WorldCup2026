@@ -170,6 +170,7 @@ Player DF Richie Laryea
 Player DF Niko Sigur
 Player FW Promise David
 Player MF Nathan Saliba
+Player MF Jayden Nelson
 
 Country qa
 Player GK Mahmud Abunada
@@ -288,7 +289,7 @@ Player GK Yassine Bounou
 Player DF Achraf Hakimi
 Player DF Noussair Mazraoui
 Player MF Sofyan Amrabat
-Player DF Nayef Aguerd
+Player DF Marwane Saâdane
 Player MF Ayyoub Bouaddi
 Player MF Chemsdine Talbi
 Player MF Azzedine Ounahi
@@ -300,7 +301,7 @@ Player DF Zakaria El Ouahdi
 Player DF Issa Diop
 Player MF Samir El Mourabet
 Player MF Gessime Yassine
-Player FW Abde Ezzalzouli
+Player FW Amine Sbaï
 Player DF Chadi Riad
 Player DF Youssef Belammari
 Player FW Ayoub El Kaabi
@@ -1085,6 +1086,7 @@ Player DF Philipp Lienhart
 Player DF Phillipp Mwene
 Player MF Carney Chukwuemeka
 Player MF Romano Schmid
+Player MF Dejan Ljubičić
 Player MF Konrad Laimer
 Player FW Patrick Wimmer
 Player MF Alexander Prass
@@ -1419,3 +1421,28 @@ Out Álex Grimaldo
 In Pedro Porro
 Out Rayan Cherki
 In Morgan Rogers
+Out Morgan Rogers
+In Nathaniel Brown
+
+Transfer
+
+Assist Érik Lira
+Goal Julián Quiñones
+Red Sphephelo Sithole
+Assist Roberto Alvarado
+Goal Raúl Jiménez
+Red Themba Zwane
+Red César Montes
+CS Raúl Rangel
+CS César Montes
+CS Edson Álvarez
+CS Johan Vásquez
+CS Israel Reyes
+CS Jesús Gallardo
+
+Assist Vladimír Coufal
+Goal Ladislav Krejčí
+Assist Lee Kang-in
+Goal Hwang In-beom
+Assist Hwang In-beom
+Goal Oh Hyeon-gyu

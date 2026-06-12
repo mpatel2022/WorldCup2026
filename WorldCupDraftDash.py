@@ -131,6 +131,9 @@ _merged_df: pd.DataFrame = pd.DataFrame()
 _user_options: list = []
 _gameweek_options: list = ["All"]
 _transfer_dates: list = []
+_all_players: dict = {}
+_all_events: list = []
+_parsed_rules: dict = {}
 
 # ---------------------------------------------------------------------------
 # URL builders
@@ -916,7 +919,7 @@ def _build_ui_dataframe(core_df: pd.DataFrame) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 
 def load_year_data(year: int, force_cache_refresh: bool = False) -> None:
-    global _current_year, _merged_df, _user_options, _gameweek_options, _transfer_dates
+    global _current_year, _merged_df, _user_options, _gameweek_options, _transfer_dates, _all_players, _all_events, _parsed_rules
 
     logger.info("Loading data for year %d (force_refresh=%s)", year, force_cache_refresh)
 
@@ -970,6 +973,9 @@ def load_year_data(year: int, force_cache_refresh: bool = False) -> None:
             logger.warning("Flag image download failed")
 
     _merged_df = ui_df
+    _all_players = players
+    _all_events = events
+    _parsed_rules = parsed_rules
     _current_year = year
     _user_options = sorted(_merged_df["User"].unique().tolist()) if not _merged_df.empty else []
     if not _merged_df.empty and "Gameweek" in _merged_df.columns:
@@ -1066,6 +1072,131 @@ def build_player_gw_breakdown(data_df: pd.DataFrame, player_name: str) -> pd.Dat
     }
     gw_agg = gw_agg.rename(columns=rename_map)
     return gw_agg.sort_values("Gameweek").reset_index(drop=True)
+
+
+def build_all_players_stats_summary() -> pd.DataFrame:
+    empty_cols = ["Player", "Position", "Country", "Points", "Appearances",
+                  "Goals", "Pen. Goals", "Assists", "Clean Sheets",
+                  "Pen. Saves", "Own Goals", "Red Cards", "Missed Pens."]
+    if not _all_players:
+        return pd.DataFrame(columns=empty_cols)
+
+    country_name_lookup: dict = dict(GB_SUBDIVISION_CODES)
+    if not _merged_df.empty and "team_code" in _merged_df.columns and "country_name" in _merged_df.columns:
+        for code, name in _merged_df[["team_code", "country_name"]].drop_duplicates().values:
+            if code and not (isinstance(name, float) and pd.isna(name)):
+                country_name_lookup[str(code)] = str(name)
+
+    events_by_player: dict = {}
+    for event in _all_events:
+        pname = event.get("player_name", "")
+        if pname:
+            events_by_player.setdefault(pname, []).append(event)
+
+    rows = []
+    for country_code, country_info in _all_players.items():
+        country_name = country_name_lookup.get(country_code, country_code)
+        for player_entry in country_info.get("players", []):
+            name = player_entry.get("name", "")
+            pos = player_entry.get("position", "")
+            pos_code = _normalize_position_code(pos) if pos else ""
+
+            player_events = events_by_player.get(name, [])
+            points = goals = pen_goals = assists = clean_sheets = 0
+            pen_saves = own_goals = red_cards = missed_pens = 0
+            gameweeks: set = set()
+
+            for event in player_events:
+                evt = event.get("Event", "")
+                gw = event.get("Gameweek", 0)
+                gameweeks.add(gw)
+                points += get_event_points(evt, pos_code, _parsed_rules)
+                if evt == "goal (excl. shootout)":
+                    goals += 1
+                elif evt == "scored penalty (shootout)":
+                    pen_goals += 1
+                elif evt == "assist":
+                    assists += 1
+                elif evt == "clean sheet (full time *)":
+                    clean_sheets += 1
+                elif evt == "penalty save (incl. shootout)":
+                    pen_saves += 1
+                elif evt == "own goal":
+                    own_goals += 1
+                elif evt == "red card":
+                    red_cards += 1
+                elif evt == "missed/saved penalty (incl. shootout)":
+                    missed_pens += 1
+
+            rows.append({
+                "Player": name,
+                "Position": pos,
+                "Country": country_name,
+                "Points": points,
+                "Appearances": len(gameweeks),
+                "Goals": goals,
+                "Pen. Goals": pen_goals,
+                "Assists": assists,
+                "Clean Sheets": clean_sheets,
+                "Pen. Saves": pen_saves,
+                "Own Goals": own_goals,
+                "Red Cards": red_cards,
+                "Missed Pens.": missed_pens,
+            })
+
+    if not rows:
+        return pd.DataFrame(columns=empty_cols)
+    result_df = pd.DataFrame(rows)
+    return result_df.sort_values("Points", ascending=False).reset_index(drop=True)
+
+
+def build_player_gw_breakdown_from_events(player_name: str) -> pd.DataFrame:
+    empty_cols = ["Gameweek", "Points", "Goals", "Pen. Goals", "Assists",
+                  "Clean Sheets", "Pen. Saves", "Own Goals", "Red Cards", "Missed Pens."]
+
+    pos = ""
+    for country_info in _all_players.values():
+        for player_entry in country_info.get("players", []):
+            if player_entry.get("name") == player_name:
+                pos = player_entry.get("position", "")
+                break
+        if pos:
+            break
+    pos_code = _normalize_position_code(pos) if pos else ""
+
+    player_events = [e for e in _all_events if e.get("player_name", "") == player_name]
+    if not player_events:
+        return pd.DataFrame(columns=empty_cols)
+
+    gw_data: dict = {}
+    for event in player_events:
+        evt = event.get("Event", "")
+        gw = event.get("Gameweek", 0)
+        if gw not in gw_data:
+            gw_data[gw] = {
+                "Gameweek": gw, "Points": 0, "Goals": 0, "Pen. Goals": 0,
+                "Assists": 0, "Clean Sheets": 0, "Pen. Saves": 0,
+                "Own Goals": 0, "Red Cards": 0, "Missed Pens.": 0,
+            }
+        gw_data[gw]["Points"] += get_event_points(evt, pos_code, _parsed_rules)
+        if evt == "goal (excl. shootout)":
+            gw_data[gw]["Goals"] += 1
+        elif evt == "scored penalty (shootout)":
+            gw_data[gw]["Pen. Goals"] += 1
+        elif evt == "assist":
+            gw_data[gw]["Assists"] += 1
+        elif evt == "clean sheet (full time *)":
+            gw_data[gw]["Clean Sheets"] += 1
+        elif evt == "penalty save (incl. shootout)":
+            gw_data[gw]["Pen. Saves"] += 1
+        elif evt == "own goal":
+            gw_data[gw]["Own Goals"] += 1
+        elif evt == "red card":
+            gw_data[gw]["Red Cards"] += 1
+        elif evt == "missed/saved penalty (incl. shootout)":
+            gw_data[gw]["Missed Pens."] += 1
+
+    return pd.DataFrame(list(gw_data.values())).sort_values("Gameweek").reset_index(drop=True)
 
 
 # ---------------------------------------------------------------------------
@@ -1352,26 +1483,17 @@ def render_main_tab(tab, _reload_trigger):
             ]),
         ])
     elif tab == "player-stats-view":
-        summary_df = build_player_stats_summary(_merged_df, "all")
+        summary_df = build_all_players_stats_summary()
         summary_records = summary_df.to_dict("records") if not summary_df.empty else []
         return html.Div([
             html.H4("Player Stats", style={"color": COLOUR_WHITE}),
-            html.Div([
-                html.Label("Filter by Position:", style={"color": COLOUR_WHITE, "marginRight": "10px"}),
-                dcc.Dropdown(
-                    id="player-stats-pos-filter",
-                    options=POSITION_FILTER_OPTIONS,
-                    value="all",
-                    clearable=False,
-                    style={"width": "300px", "color": COLOUR_BLACK},
-                ),
-            ], style={"display": "flex", "alignItems": "center", "marginBottom": "15px"}),
             dash_table.DataTable(
                 id="player-stats-summary-table",
                 data=summary_records,
                 columns=PLAYER_STATS_SUMMARY_COLUMNS,
                 sort_action="native",
                 filter_action="native",
+                filter_options={"case": "insensitive"},
                 page_size=25,
                 style_table={"overflowX": "auto"},
                 style_header={
@@ -1813,11 +1935,10 @@ _make_squad_metric_callback("squad-clean-sheets-content", "squad-clean-sheets-po
 # ---------------------------------------------------------------------------
 @app.callback(
     Output("player-stats-summary-table", "data"),
-    Input("player-stats-pos-filter", "value"),
     Input("data-reload-trigger", "data"),
 )
-def update_player_stats_table(pos_filter, _reload_trigger):
-    summary_df = build_player_stats_summary(_merged_df, pos_filter or "all")
+def update_player_stats_table(_reload_trigger):
+    summary_df = build_all_players_stats_summary()
     return summary_df.to_dict("records") if not summary_df.empty else []
 
 
@@ -1842,7 +1963,7 @@ def update_player_gw_breakdown(active_cell, virtual_data):
         return html.P("No data available for this player.", style={"color": "#888"})
 
     logger.info("Player Stats: showing GW breakdown for %s", player_name)
-    gw_df = build_player_gw_breakdown(_merged_df, player_name)
+    gw_df = build_player_gw_breakdown_from_events(player_name)
     if gw_df.empty:
         return html.P(f"No gameweek data found for {player_name}.", style={"color": "#888"})
 
